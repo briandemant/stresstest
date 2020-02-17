@@ -1,0 +1,2337 @@
+{
+  "success": "true",
+  "data": {
+    "597": {
+      "name": "2-hjulet transport",
+      "link": "/transport/",
+      "children_names": "Cykler og tilbehør, Knallerter, Motorcykler og tilbehør, Crossere, ATV og Go-karts, Scooter",
+      "is_personals": false,
+      "path_as_string": "2-hjulet transport",
+      "parent_ids": [],
+      "adcount": 825,
+      "sub_categories": {
+        "598": {
+          "name": "Cykler og tilbehør",
+          "link": "/transport/cykler-og-tilbehor/",
+          "children_names": "El-cykel, Christianiacykel, ladcykel m.m., Cykeltrailer, Damecykel, Drengecykel, Foldecykel, Handicapcykel, Herrecykel, Pigecykel, Tandem, Unisex cykel, Tilbehør, Andet",
+          "is_personals": false,
+          "path_as_string": "2-hjulet transport/Cykler og tilbehør",
+          "parent_ids": [
+            597
+          ],
+          "adcount": 447
+        },
+        "599": {
+          "name": "Knallerter",
+          "link": "/transport/knallerter/",
+          "children_names": "Adly, Apollo, Aprilia, Baotian, CPI, Derbi, Gilera, Handicapscooter, Honda, Kawasaki, Kreidler, KTM, Kymco, Peugeot, PGO, Piaggio, Puch Maxi, Puch Maxi 2-gear, Puch Mini, Puch Monza, Puch MS, Puch VZ, Suzuki, Tomos, Velo, Vespa, Veteran, Yamaha, Anden, Zhejiang, Reservedele",
+          "is_personals": false,
+          "path_as_string": "2-hjulet transport/Knallerter",
+          "parent_ids": [
+            597
+          ],
+          "adcount": 128
+        },
+        "600": {
+          "name": "Motorcykler og tilbehør",
+          "link": "/transport/motorcykler-og-tilbehor/",
+          "children_names": "Motorcykler, Tilbehør og reservedele",
+          "is_personals": false,
+          "path_as_string": "2-hjulet transport/Motorcykler og tilbehør",
+          "parent_ids": [
+            597
+          ],
+          "adcount": 78
+        },
+        "4549": {
+          "name": "Crossere, ATV og Go-karts",
+          "link": "/transport/crossere-go-carts/",
+          "children_names": "ATV, Crosser, Go-kart, Pocketbike, Tilbehør, Anden model",
+          "is_personals": false,
+          "path_as_string": "2-hjulet transport/Crossere, ATV og Go-karts",
+          "parent_ids": [
+            597
+          ],
+          "adcount": 79
+        },
+        "5864": {
+          "name": "Scooter",
+          "link": "/transport/scooter/",
+          "children_names": "Adly, Aprilia, Baotian, CPI, El-scooter, Gilera, Peugeot, PGO, Piaggio, Suzuki, Sym, Tilbehør og reservedele, Vespa, Yamaha, Anden",
+          "is_personals": false,
+          "path_as_string": "2-hjulet transport/Scooter",
+          "parent_ids": [
+            597
+          ],
+          "adcount": 93
+        }
+      }
+    },
+    "756": {
+      "name": "Barn og baby",
+      "link": "/barn-og-baby/",
+      "children_names": "Baby og børneudstyr, Kostumer, Ammetøj, Børneartikler, Børnemøbler, Børnetransport, Børnetøj, Legetøj, Ventetøj",
+      "is_personals": false,
+      "path_as_string": "Barn og baby",
+      "parent_ids": [],
+      "adcount": 613,
+      "sub_categories": {
+        "7984": {
+          "name": "Baby og børneudstyr",
+          "link": "/barn-og-baby/baby-og-borneudstyr/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Barn og baby/Baby og børneudstyr",
+          "parent_ids": [
+            756
+          ],
+          "adcount": 24
+        },
+        "8098": {
+          "name": "Kostumer",
+          "link": "/barn-og-baby/kostumer/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Barn og baby/Kostumer",
+          "parent_ids": [
+            756
+          ],
+          "adcount": 13
+        },
+        "7439": {
+          "name": "Ammetøj",
+          "link": "/barn-og-baby/ammetoj/",
+          "children_names": "Ammebh, Ammebluse, Ammekjole, Andet",
+          "is_personals": false,
+          "path_as_string": "Barn og baby/Ammetøj",
+          "parent_ids": [
+            756
+          ],
+          "adcount": 4
+        },
+        "760": {
+          "name": "Børneartikler",
+          "link": "/barn-og-baby/borneartikler/",
+          "children_names": "Aktivitetsstativ, Aktivitetstæppe, Ammepude, Babyalarm, Babynest, Babyslynge, Babystol, Badekar, Badestol, Bleer, Blespand, Brystpumpe, Bæresele, Dyner, Flaskevarmer, Gitter, Gåstol, Gåvogn, Handy-Sitt, Hoppegynge, Kørepose, Kravlegård, Lammeskind, Legetæppe, Lift, Madras, Musikuro, Pleje og sundhed, Puder, Puslebord, Puslehynde, Pusletaske, Regnslag, Rygbærer, Sengehimmel, Sengehest, Sengerand, Sengesæt, Skråstol, Stofbleer, Sutteflaske, Sækkestol, Søskendesæde, Toiletsæde, Trappegitter, Sovepose, Andet",
+          "is_personals": false,
+          "path_as_string": "Barn og baby/Børneartikler",
+          "parent_ids": [
+            756
+          ],
+          "adcount": 72
+        },
+        "762": {
+          "name": "Børnemøbler",
+          "link": "/barn-og-baby/bornemobler/",
+          "children_names": "Babyseng, Billeder, Bord, Color 4 Kids møbler, Halvhøj seng, Højseng, Højstol, Juniorseng, Junoseng, Køjeseng, Lille Per seng, Reol, Seng, Sengerand, Skrivebord, Stol, Tremmeseng, Tripp Trapp stol, Udtræksseng, Vugge, Weekendseng, Andet",
+          "is_personals": false,
+          "path_as_string": "Barn og baby/Børnemøbler",
+          "parent_ids": [
+            756
+          ],
+          "adcount": 80
+        },
+        "765": {
+          "name": "Børnetransport",
+          "link": "/barn-og-baby/bornetransport/",
+          "children_names": "Autostol, Babyjogger, Barnevogne, Cykelanhænger, Cykelhjelm, Cykelstol, Klapvogn, Løbecykel, Mooncar, Selepude, Ståbræt, Søskendesæde, Trækvogn, Andet",
+          "is_personals": false,
+          "path_as_string": "Barn og baby/Børnetransport",
+          "parent_ids": [
+            756
+          ],
+          "adcount": 81
+        },
+        "767": {
+          "name": "Børnetøj",
+          "link": "/barn-og-baby/bornetoj/",
+          "children_names": "Accessories, Drengetøj, Fodtøj, Pigetøj, Præmatur, Andet",
+          "is_personals": false,
+          "path_as_string": "Barn og baby/Børnetøj",
+          "parent_ids": [
+            756
+          ],
+          "adcount": 178
+        },
+        "769": {
+          "name": "Legetøj",
+          "link": "/barn-og-baby/legetoj/",
+          "children_names": "Actionman, Aktivitetstæppe, BabyBorn, Babylegetøj, Bamser, Barbapapa, Barbie, Betty Spaghetti, Legetøjsbiler, Bobslæde, Bondegård, Bratz, Brio, Build a Bear, Byggemand Bob, Diddl, Disney, Dukkehus, Dukker, Dukkeseng, Dukketilbehør, Dukkevogn, Fidget Spinner, Fisher Price, Flexi Trax, Gynge, Gyngehest, Harry Potter, Karaokeanlæg, Keyboard, Kælk, Køkken, Ladcykel, Lamaze, Lego, Micro Machines, My Little Pony, NERF, Peter Plys, Play2learn, Playmobil, Polly Pocket, Pokemon, Police Force, Puslespil, Racerbane, Samlerkort, Schleich, Spiderman, Spil, Togbane, Trehjulet cykel, Traktor, Trælegetøj, Turtles, Uro, Andet",
+          "is_personals": false,
+          "path_as_string": "Barn og baby/Legetøj",
+          "parent_ids": [
+            756
+          ],
+          "adcount": 152
+        },
+        "6197": {
+          "name": "Ventetøj",
+          "link": "/barn-og-baby/ventetoj/",
+          "children_names": "Ventetøj 28-30, Ventetøj 32-36, Ventetøj 38-42, Ventetøj 44-48, Ventetøj 50 -",
+          "is_personals": false,
+          "path_as_string": "Barn og baby/Ventetøj",
+          "parent_ids": [
+            756
+          ],
+          "adcount": 9
+        }
+      }
+    },
+    "885": {
+      "name": "Biler og tilbehør",
+      "link": "/biler/",
+      "children_names": "Autostereo, Dæk og fælge, Lastbiler, Leasing, Reservedele og tilbehør, Personbiler, Styling, Trailer, Varevogne og erhvervsbiler, Udlejning, Reparation og vedligeholdelse, Skrot og miljøbiler",
+      "is_personals": false,
+      "path_as_string": "Biler og tilbehør",
+      "parent_ids": [],
+      "adcount": 518,
+      "sub_categories": {
+        "4797": {
+          "name": "Autostereo",
+          "link": "/biler/autostereo/",
+          "children_names": "CDafspiller, CD/MP3, CD/Radio, DVD/CD, Forstærker, Højtaler, Kassette/Radio, Minidisc/Radio, Multimedie, Radio, Subwoofer, Andet",
+          "is_personals": false,
+          "path_as_string": "Biler og tilbehør/Autostereo",
+          "parent_ids": [
+            885
+          ],
+          "adcount": 17
+        },
+        "2304": {
+          "name": "Dæk og fælge",
+          "link": "/biler/daek-og-faelge/",
+          "children_names": "Fælge, Dæk, Dæk på fælge, Andet",
+          "is_personals": false,
+          "path_as_string": "Biler og tilbehør/Dæk og fælge",
+          "parent_ids": [
+            885
+          ],
+          "adcount": 104
+        },
+        "8068": {
+          "name": "Lastbiler",
+          "link": "/biler/lastbiler/",
+          "children_names": "Borgward, Chevrolet, DAB, Daf, Fiat, Ford, Freightliner, Fuso, Hanomag, Isuzu, Iveco, Kenworth, Magirius, Magirus-Deutz, MAN, Mercedes, Mitsubishi, Mitsubishi Fuso, Morris, Multicar, Nissan, Opel, Peterbilt, Renault, Rugby, Scania, Toyota, Volvo, VW, Andet mærke, Tilbehør og reservedele",
+          "is_personals": false,
+          "path_as_string": "Biler og tilbehør/Lastbiler",
+          "parent_ids": [
+            885
+          ],
+          "adcount": 7
+        },
+        "8099": {
+          "name": "Leasing",
+          "link": "/biler/leasing/",
+          "children_names": "Leasing Erhverv, Leasing Privat",
+          "is_personals": false,
+          "path_as_string": "Biler og tilbehør/Leasing",
+          "parent_ids": [
+            885
+          ],
+          "adcount": 1
+        },
+        "887": {
+          "name": "Reservedele og tilbehør",
+          "link": "/biler/reservedele/",
+          "children_names": "Alarm, Anhængertræk, Autolift, Bagagerumsbakke, Bagklap, Bagpotte, Bagrude, Bagskærm, Bagsæde, Bakkamera, Batteri, Beklædning, Benzindunk, Benzinpumpe, Billygter, Bremsekalibre, Bremseklodser, Bremseskiver, Bundkar, Bærearm, Cykelophæng, Donkraft, Døre, Fjedre, Forbro, Forlygter, Forrude, Forskærm, Frontgitter, Frontklap, Gearkasse, Generator, GPS, Hardtop, Hattehylde, Hjulkapsler, Hundegitter, Instruktionsbog, Kaleche, Karburator, Katalysator, Kilerem, Kn-filter, Kobling, Kofanger, Køler, Luftfilter, Lygtebom, Motor, Motor og gearkasse, Motorhjelm, Motorolie, Måtter, Navkapsler, Oliefilter, P-skive, Rat, Ratlås, Reoler til varevogne, Reparationshåndbog, Servostyring, Sidespejle, Snekæder, Soltag, Speedometer, Starter, Startkabler, Støddæmper, Sæder, Tagbagagebærer, Tagboks, Tagbøjler, Tandrem, Tandstang, Tank, Topstykke, Transformer, Trækaksel, Tuning, Tændrør, Udstødning, Vandpumpe, Veteran dele, Viskerblade, Andet",
+          "is_personals": false,
+          "path_as_string": "Biler og tilbehør/Reservedele og tilbehør",
+          "parent_ids": [
+            885
+          ],
+          "adcount": 109
+        },
+        "886": {
+          "name": "Personbiler",
+          "link": "/biler/personbiler/",
+          "children_names": "Abarth, AC, Acura, Adler, Adly, Aeon, Aero, Afuture, Alpina, Alpine, Amber Broom, AMC, AME, Amphicar, Ariel, Aro, Arrow, Aston Martin, Auburn, Austin Healey, Auto Union, Bashan, Bedford, Alfa Romeo, Amerikaner biler, Audi, Autobianchi, Austin, Bentley, BMW, BSA, Buick, Cadillac, Chevrolet, Chrysler, Citroën, Dacia, Daewoo, Datsun, Daihatsu, De Soto, DKW, Dodge, El-bil, Ferrari, Fiat, Ford, Honda, Hummer, Hyundai, Iveco, Jaguar, Jeep, Kewet, Kia, Lada, Land Rover, Lancia, Lexus, Lincoln, Lotus, Maserati, Mazda, Mercedes, MG, Morgan, Mini, Mitsubishi, Morris, Nissan, Oldsmobile, Opel, Peugeot, Plymouth, Pontiac, Porsche, Reliant, Renault, Rover, Saab, Seat, Skoda, Smart, Ssangyong, Subaru, Suzuki, Tesla, Toyota, Veteranbiler, Volvo, VW, Anden model, Busser, Bombardier, Boom, Borgward, Bradford, Bristol, Bufori, Bugatti, Can-Am, Carbodies, Carver, Caterham, Cectek, Charron, Cobra, Cord, Corvette, Cosmopolitan, Cupra, Daf, Daimler, Dax, DeLorean, DeSoto, DeTomaso, Dinli, Donkervoort, Dresel, DS, Durant, Ellert, Elnagh, Excalibur, Facel Vega, Fisker, Fordson, Franklin, Garia, Gaz, Gemballa, Geo, Ginetta, Glas, GMC, Goggomobil, Goupil, GS, Hanomag, Hansa, Heinkel, Henra, Hillman, Hudson, Humber, Hupmobile, Hyosung, IFA, IMW, Infiniti, Innocenti, International, Isuzu, Jensen, Jowett, Kaiser Jeep, Keeway, Kinroad, Kissel, Koenigsegg, Kougar, KTM, Kymco, Lamborghini, LaSalle, Linhai, Lloyd, London Taxis International, Malibu, MAN, Marcos, Matra, Maybach, McLaren, Mega, Mercury, Merlin, Messerschmitt, Mini Jem, Moskvitch, Nash, Nauticat, Nbluck, Neckar, NSU, Overland, Packard, Panhard, Panther, PB, Polar, Polaris, Pro Sport, Puma, Radical, Rambler, Reva, Rewaco, Riley, RMA, Robin Hood, Rolls Royce, Saturn, Secma, Shelby, Shineray, Silver, Simca, Simonini, Singer, Skibsplast, SMC, Spyker, Standard, Streetbull, Studebaker, Sunbeam, Sym, Talbot, Tangjunouling, Tata, Tatra, Tazzari, Think, Trabant, Triumph, TVR, UAZ, Ultima, Vauxhall, Velorex, Vespa, Vespacar, Wanderer, Wartburg, Watercar, Westfield, Wiesmann, Willys, Wolseley, Xinling, Yamaha, Yugo, Zastava, Zenvo, Zhenhua, Zimmer",
+          "is_personals": false,
+          "path_as_string": "Biler og tilbehør/Personbiler",
+          "parent_ids": [
+            885
+          ],
+          "adcount": 209
+        },
+        "5374": {
+          "name": "Styling",
+          "link": "/biler/styling/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Biler og tilbehør/Styling",
+          "parent_ids": [
+            885
+          ],
+          "adcount": 9
+        },
+        "888": {
+          "name": "Trailer",
+          "link": "/biler/trailer/",
+          "children_names": "Autotrailer, Biltrailer, Bådtrailer, Hestetrailer, Andre, Trailerdele",
+          "is_personals": false,
+          "path_as_string": "Biler og tilbehør/Trailer",
+          "parent_ids": [
+            885
+          ],
+          "adcount": 25
+        },
+        "889": {
+          "name": "Varevogne og erhvervsbiler",
+          "link": "/biler/erhvervsbiler/",
+          "children_names": "Alpina, Aston Martin, Astral, Austin, Barkas, Bedford, Bentley, Borgward, Citroën, Dacia, Daf, Datsun, DS, Fuso, Garia, GMC, Godden, Goupil, Hanomag, Ifor Williams, Infiniti, International, Isuzu, Jaguar, Jiangling, Joint, Lexus, Leyland, Lincoln, Lloyd, MAN, Maserati, Mega, Melex, Mini, Mitsubishi Fuso, PFAU, Piaggio, Plymouth, Pontiac, Renault Trucks, RMA, Santana, Suzhou, Tata, Wartburg, Willys, Alfa Romeo, Audi, BMW, Cadillac, Chevrolet, Chrysler, Citroën, Daewoo, Daihatsu, Dodge, Fiat, Ford, Honda, Hummer, Hyundai, IFA, Izuzu, Iveco, Jeep, Kia, Lada, Lancia, Land Rover, Mazda, LDV, Mercedes, Mitsubishi, Morris, Nissan, Opel, Peugeot, Porsche, Renault, Rover, Saab, Seat, Skoda, Ssangyong, Subaru, Suzuki, Toyota, Volvo, VW, Andet",
+          "is_personals": false,
+          "path_as_string": "Biler og tilbehør/Varevogne og erhvervsbiler",
+          "parent_ids": [
+            885
+          ],
+          "adcount": 34
+        },
+        "4487": {
+          "name": "Udlejning",
+          "link": "/biler/udlejning/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Biler og tilbehør/Udlejning",
+          "parent_ids": [
+            885
+          ],
+          "adcount": 3
+        },
+        "6835": {
+          "name": "Reparation og vedligeholdelse",
+          "link": "/biler/reparation-og-vedligeholdelse/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Biler og tilbehør/Reparation og vedligeholdelse",
+          "parent_ids": [
+            885
+          ],
+          "adcount": 0
+        },
+        "8096": {
+          "name": "Skrot og miljøbiler",
+          "link": "/biler/skrot-og-miljobiler/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Biler og tilbehør/Skrot og miljøbiler",
+          "parent_ids": [
+            885
+          ],
+          "adcount": 0
+        }
+      }
+    },
+    "817": {
+      "name": "Byggematerialer",
+      "link": "/byggematerialer/",
+      "children_names": "Døre, El-artikler, Porte, Glas og vinduer, VVS, Andre materialer",
+      "is_personals": false,
+      "path_as_string": "Byggematerialer",
+      "parent_ids": [],
+      "adcount": 262,
+      "sub_categories": {
+        "821": {
+          "name": "Døre",
+          "link": "/byggematerialer/dore/",
+          "children_names": "Udhusdør, Branddør, Dannebrogsdør, Dørgreb, Facadedør, Foldedør, Fransk dør, Fyldningsdør, Hoveddør, Indvendig dør, Plastdør, Skydedør, Stalddør, Ståldør, Terrassedør, Yderdør, Andet",
+          "is_personals": false,
+          "path_as_string": "Byggematerialer/Døre",
+          "parent_ids": [
+            817
+          ],
+          "adcount": 54
+        },
+        "822": {
+          "name": "El-artikler",
+          "link": "/byggematerialer/el-artikler/",
+          "children_names": "Afbryder, Armatur, El-motor, El-måler, Elpanel, Halogenfatninger, Halogenpære, IHC, Installationskabel, Kabel, LED, Lysdæmper, Spots, Stikkontakt, Strømafbryder, Transformer, Andet",
+          "is_personals": false,
+          "path_as_string": "Byggematerialer/El-artikler",
+          "parent_ids": [
+            817
+          ],
+          "adcount": 3
+        },
+        "6842": {
+          "name": "Porte",
+          "link": "/byggematerialer/porte/",
+          "children_names": "Garageport, Vippeport, Andre porte",
+          "is_personals": false,
+          "path_as_string": "Byggematerialer/Porte",
+          "parent_ids": [
+            817
+          ],
+          "adcount": 10
+        },
+        "826": {
+          "name": "Glas og vinduer",
+          "link": "/byggematerialer/glas-og-vinduer/",
+          "children_names": "Alu-vindue, Blyvindue, Bondehusvindue, Dannebrogsvindue, Dreje-kip vindue, Glas, Kvistvindue, Ovenlysvindue, Plastvindue, Skråvindue, Sprossevindue, Staldvinduer, Tagvindue, Termoglas, Termorude, Termovindue, Vindueskarm, Vinduesparti, Andet",
+          "is_personals": false,
+          "path_as_string": "Byggematerialer/Glas og vinduer",
+          "parent_ids": [
+            817
+          ],
+          "adcount": 55
+        },
+        "827": {
+          "name": "VVS",
+          "link": "/byggematerialer/vvs/",
+          "children_names": "Cirkulationspumpe, Pex-rør, Radiator, Regulator, Vandpumpe, Varmtvandsbeholder, Andet",
+          "is_personals": false,
+          "path_as_string": "Byggematerialer/VVS",
+          "parent_ids": [
+            817
+          ],
+          "adcount": 39
+        },
+        "828": {
+          "name": "Andre materialer",
+          "link": "/byggematerialer/andre-materialer/",
+          "children_names": "Cement, Eternitplader, EU-paller, Fodlister, Fugemasse, Fliser, Gipsplader, Gulve, Gulvvarme, Isolering, Klinker, Kvist, Maling, Mursten, Skorsten, Skruer, Spær, Stålplader, Tagpap, Tagplader, Tagrender, Tagsten, Trapezplader, Trappe, Træmaterialer, Ventilation, Vindueskarm, Andet",
+          "is_personals": false,
+          "path_as_string": "Byggematerialer/Andre materialer",
+          "parent_ids": [
+            817
+          ],
+          "adcount": 101
+        }
+      }
+    },
+    "713": {
+      "name": "Camping",
+      "link": "/camping/",
+      "children_names": "Autocamper, Campingvogne, Reservedele, Teltvogn, Tilbehør og udstyr, Udlejning og opbevaring",
+      "is_personals": false,
+      "path_as_string": "Camping",
+      "parent_ids": [],
+      "adcount": 234,
+      "sub_categories": {
+        "4947": {
+          "name": "Autocamper",
+          "link": "/camping/autocamper/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Camping/Autocamper",
+          "parent_ids": [
+            713
+          ],
+          "adcount": 1
+        },
+        "727": {
+          "name": "Campingvogne",
+          "link": "/camping/campingvogne/",
+          "children_names": "Adria, Apollo Wilk, Beyerland, Bürstner, Cabby, Camp-Let, Carado, Caravelair, Chateau, Delta, Dethleffs, Edelweiss, Eifelland, Elddis, Fendt, Fleetwood, Hero Camper, Hobby, Home-car, Hymer, Kabe, Knaus, Kip, LMC, Münsterland, Polar, Rapido, RC Caravan, Safari, Seestern, Senator, Solifer, Sprite, Sterckeman, T.E.C., Tabbert, Wilk, Anden model",
+          "is_personals": false,
+          "path_as_string": "Camping/Campingvogne",
+          "parent_ids": [
+            713
+          ],
+          "adcount": 145
+        },
+        "8086": {
+          "name": "Reservedele",
+          "link": "/camping/reservedele/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Camping/Reservedele",
+          "parent_ids": [
+            713
+          ],
+          "adcount": 0
+        },
+        "729": {
+          "name": "Teltvogn",
+          "link": "/camping/teltvogn/",
+          "children_names": "Apollo, Camplet, Combicamp, Concorde, Dan camp, Joker, Nissen, Royal, Anden",
+          "is_personals": false,
+          "path_as_string": "Camping/Teltvogn",
+          "parent_ids": [
+            713
+          ],
+          "adcount": 12
+        },
+        "732": {
+          "name": "Tilbehør og udstyr",
+          "link": "/camping/tilbehor-og-udstyr/",
+          "children_names": "Campingbord, Campingspejle, Campingstole, Cykelholder, Fortelt, Gasblus, Gasflaske, Gulvtæppe, Køleboks, Læsejl, Markise, Reservedele, Sidespejle, Solsejl, Sovepose, Telt, Toilet, Vinterfortelt, Andet",
+          "is_personals": false,
+          "path_as_string": "Camping/Tilbehør og udstyr",
+          "parent_ids": [
+            713
+          ],
+          "adcount": 69
+        },
+        "733": {
+          "name": "Udlejning og opbevaring",
+          "link": "/camping/udlejning-og-opbevaring/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Camping/Udlejning og opbevaring",
+          "parent_ids": [
+            713
+          ],
+          "adcount": 7
+        }
+      }
+    },
+    "581": {
+      "name": "Diverse",
+      "link": "/diverse/",
+      "children_names": "Auktioner, Beskæftigelse, Bortgives, Byttes, Dødsbo købes, Dødsbo sælges, Jul og nytår, Festartikler-/udlejning, Fødevarer, Markeder, Kontakt, Påskepynt, Sundhed, Varepartier, Vin og spiritus, Ønskes gratis, Andet",
+      "is_personals": false,
+      "path_as_string": "Diverse",
+      "parent_ids": [],
+      "adcount": 1443,
+      "sub_categories": {
+        "222951": {
+          "name": "Auktioner",
+          "link": "/diverse/auktioner/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Diverse/Auktioner",
+          "parent_ids": [
+            581
+          ],
+          "adcount": 0
+        },
+        "4973": {
+          "name": "Beskæftigelse",
+          "link": "/diverse/beskaeftigelse/",
+          "children_names": "Beskæftigelse tilbydes, Beskæftigelse udføres",
+          "is_personals": false,
+          "path_as_string": "Diverse/Beskæftigelse",
+          "parent_ids": [
+            581
+          ],
+          "adcount": 1261
+        },
+        "584": {
+          "name": "Bortgives",
+          "link": "/diverse/bortgives/",
+          "children_names": "Blomster, Træer/Beplantning, Møbler, Sten/fliser, Andet",
+          "is_personals": false,
+          "path_as_string": "Diverse/Bortgives",
+          "parent_ids": [
+            581
+          ],
+          "adcount": 31
+        },
+        "585": {
+          "name": "Byttes",
+          "link": "/diverse/byttes/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Diverse/Byttes",
+          "parent_ids": [
+            581
+          ],
+          "adcount": 29
+        },
+        "8284": {
+          "name": "Dødsbo købes",
+          "link": "/diverse/dodsbo-kobes/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Diverse/Dødsbo købes",
+          "parent_ids": [
+            581
+          ],
+          "adcount": 0
+        },
+        "8162": {
+          "name": "Dødsbo sælges",
+          "link": "/diverse/dodsbo-saelges/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Diverse/Dødsbo sælges",
+          "parent_ids": [
+            581
+          ],
+          "adcount": 0
+        },
+        "6116": {
+          "name": "Jul og nytår",
+          "link": "/diverse/jul-og-nytaar/",
+          "children_names": "Julemand, Nytår, Julebryg, Julemad, Juleneg, Julepynt, Juleservice, Julestuer og -markeder, Juletræer, Juletræsfod, Juleuro, Pyntegran, Troldhasselgrene, Andre juleting",
+          "is_personals": false,
+          "path_as_string": "Diverse/Jul og nytår",
+          "parent_ids": [
+            581
+          ],
+          "adcount": 2
+        },
+        "4941": {
+          "name": "Festartikler-/udlejning",
+          "link": "/diverse/festartikler-udlejning/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Diverse/Festartikler-/udlejning",
+          "parent_ids": [
+            581
+          ],
+          "adcount": 2
+        },
+        "4552": {
+          "name": "Fødevarer",
+          "link": "/diverse/fodevarer/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Diverse/Fødevarer",
+          "parent_ids": [
+            581
+          ],
+          "adcount": 1
+        },
+        "589": {
+          "name": "Markeder",
+          "link": "/diverse/markeder/",
+          "children_names": "Loppemarked, Marked, Loppemarkedseffekter",
+          "is_personals": false,
+          "path_as_string": "Diverse/Markeder",
+          "parent_ids": [
+            581
+          ],
+          "adcount": 28
+        },
+        "590": {
+          "name": "Kontakt",
+          "link": "/diverse/kontakt/",
+          "children_names": "Dyrepasning, Efterlysning, Hushjælp, Kortspillere, Kæreste og partner, Kørelejlighed, Musikere, Skolekammerater, Venner og veninder, Andet",
+          "is_personals": false,
+          "path_as_string": "Diverse/Kontakt",
+          "parent_ids": [
+            581
+          ],
+          "adcount": 12
+        },
+        "213147": {
+          "name": "Påskepynt",
+          "link": "/diverse/paaskepynt/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Diverse/Påskepynt",
+          "parent_ids": [
+            581
+          ],
+          "adcount": 0
+        },
+        "212836": {
+          "name": "Sundhed",
+          "link": "/diverse/sundhed/",
+          "children_names": "Akupunktur, Badestol, Blodtryksmåler, Doseringsæske, Fodpleje, Kosttilskud, Krykker, Kørestol, Lysterapilampe, Massageudstyr, Plaster og forbinding, Rollator, Rygestop, Stok, Støttebind, Støttestrømper, Varmetæppe og -pude, Andet",
+          "is_personals": false,
+          "path_as_string": "Diverse/Sundhed",
+          "parent_ids": [
+            581
+          ],
+          "adcount": 2
+        },
+        "6074": {
+          "name": "Varepartier",
+          "link": "/diverse/varepartier/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Diverse/Varepartier",
+          "parent_ids": [
+            581
+          ],
+          "adcount": 2
+        },
+        "212232": {
+          "name": "Vin og spiritus",
+          "link": "/diverse/vin-og-spiritus/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Diverse/Vin og spiritus",
+          "parent_ids": [
+            581
+          ],
+          "adcount": 0
+        },
+        "2654": {
+          "name": "Ønskes gratis",
+          "link": "/diverse/onskes-gratis/",
+          "children_names": "Andet",
+          "is_personals": false,
+          "path_as_string": "Diverse/Ønskes gratis",
+          "parent_ids": [
+            581
+          ],
+          "adcount": 17
+        },
+        "7878": {
+          "name": "Andet",
+          "link": "/diverse/andet/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Diverse/Andet",
+          "parent_ids": [
+            581
+          ],
+          "adcount": 56
+        }
+      }
+    },
+    "698": {
+      "name": "Dyr og tilbehør",
+      "link": "/dyr/",
+      "children_names": "Akvariefisk, Fugle, Heste, Hunde, Husdyr, Katte, Krybdyr, Andre kæledyr, Pension/pasning, Tilbehør",
+      "is_personals": false,
+      "path_as_string": "Dyr og tilbehør",
+      "parent_ids": [],
+      "adcount": 579,
+      "sub_categories": {
+        "699": {
+          "name": "Akvariefisk",
+          "link": "/dyr/akvariefisk/",
+          "children_names": "Fisk, Rejer, Skildpadde, Tilbehør",
+          "is_personals": false,
+          "path_as_string": "Dyr og tilbehør/Akvariefisk",
+          "parent_ids": [
+            698
+          ],
+          "adcount": 18
+        },
+        "701": {
+          "name": "Fugle",
+          "link": "/dyr/fugle/",
+          "children_names": "Fjerkræ, Fugle, Tilbehør",
+          "is_personals": false,
+          "path_as_string": "Dyr og tilbehør/Fugle",
+          "parent_ids": [
+            698
+          ],
+          "adcount": 110
+        },
+        "703": {
+          "name": "Heste",
+          "link": "/dyr/heste/",
+          "children_names": "Bedækning, Foder og tilskud, Græsning, Heste, Opstaldning, Rideudstyr, Springmateriale, Staldinventar og hestebokse, Transport tilbydes/søges, Udlån og anpart",
+          "is_personals": false,
+          "path_as_string": "Dyr og tilbehør/Heste",
+          "parent_ids": [
+            698
+          ],
+          "adcount": 135
+        },
+        "705": {
+          "name": "Hunde",
+          "link": "/dyr/hunde/",
+          "children_names": "Avl, Hunde, Tilbehør",
+          "is_personals": false,
+          "path_as_string": "Dyr og tilbehør/Hunde",
+          "parent_ids": [
+            698
+          ],
+          "adcount": 149
+        },
+        "706": {
+          "name": "Husdyr",
+          "link": "/dyr/husdyr/",
+          "children_names": "Bier, Får, Geder, Grise, Køer, Lam, Tilbehør, Vædder, Æsel, Andre",
+          "is_personals": false,
+          "path_as_string": "Dyr og tilbehør/Husdyr",
+          "parent_ids": [
+            698
+          ],
+          "adcount": 26
+        },
+        "708": {
+          "name": "Katte",
+          "link": "/dyr/katte/",
+          "children_names": "Avl, Katte, Tilbehør",
+          "is_personals": false,
+          "path_as_string": "Dyr og tilbehør/Katte",
+          "parent_ids": [
+            698
+          ],
+          "adcount": 48
+        },
+        "709": {
+          "name": "Krybdyr",
+          "link": "/dyr/krybdyr/",
+          "children_names": "Leguaner, Skildpadder, Slanger, Tilbehør, Andre",
+          "is_personals": false,
+          "path_as_string": "Dyr og tilbehør/Krybdyr",
+          "parent_ids": [
+            698
+          ],
+          "adcount": 9
+        },
+        "710": {
+          "name": "Andre kæledyr",
+          "link": "/dyr/andre-kaeledyr/",
+          "children_names": "Chinchilla, Degu, Hamster, Ilder, Jordegern, Kanin, Marsvin, Mus, Rotte, Ørkenrotter, Tilbehør, Andre",
+          "is_personals": false,
+          "path_as_string": "Dyr og tilbehør/Andre kæledyr",
+          "parent_ids": [
+            698
+          ],
+          "adcount": 28
+        },
+        "7019": {
+          "name": "Pension/pasning",
+          "link": "/dyr/pensionpasning/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Dyr og tilbehør/Pension/pasning",
+          "parent_ids": [
+            698
+          ],
+          "adcount": 1
+        },
+        "4571": {
+          "name": "Tilbehør",
+          "link": "/dyr/tilbehor/",
+          "children_names": "Biavl, Bur, Dyrefoder, El-hegn, Foder, Foderautomat, Fodervogn, Fodertønde, Halm, Hegn, Hø, Høhæk, Kaninbur, Kreaturklipper, Pigtråd, Korn, Roer, Rugemaskine, Savsmuld, Terrarium, Transportbur, Transportkasse, Trimmebord, Varmelampe, Wraphø, Andet",
+          "is_personals": false,
+          "path_as_string": "Dyr og tilbehør/Tilbehør",
+          "parent_ids": [
+            698
+          ],
+          "adcount": 55
+        }
+      }
+    },
+    "591": {
+      "name": "Ejendomme",
+      "link": "/ejendomme/",
+      "children_names": "Andelsboliger, Depot og opbevaring, Ejendom - Udland, Erhvervslokaler, Byggegrunde, Flytbare huse, Huse, Pavillioner, Lejligheder, Værelser, Sommerhuse (køb/salg), Kolonihavehuse",
+      "is_personals": false,
+      "path_as_string": "Ejendomme",
+      "parent_ids": [],
+      "adcount": 71,
+      "sub_categories": {
+        "8326": {
+          "name": "Andelsboliger",
+          "link": "/ejendomme/andelsboliger/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Ejendomme/Andelsboliger",
+          "parent_ids": [
+            591
+          ],
+          "adcount": 0
+        },
+        "5890": {
+          "name": "Depot og opbevaring",
+          "link": "/ejendomme/depot-og-opbevaring/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Ejendomme/Depot og opbevaring",
+          "parent_ids": [
+            591
+          ],
+          "adcount": 3
+        },
+        "6856": {
+          "name": "Ejendom - Udland",
+          "link": "/ejendomme/ejendom-udland/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Ejendomme/Ejendom - Udland",
+          "parent_ids": [
+            591
+          ],
+          "adcount": 2
+        },
+        "209736": {
+          "name": "Erhvervslokaler",
+          "link": "/ejendomme/erhvervslokaler/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Ejendomme/Erhvervslokaler",
+          "parent_ids": [
+            591
+          ],
+          "adcount": 16
+        },
+        "592": {
+          "name": "Byggegrunde",
+          "link": "/ejendomme/byggegrunde/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Ejendomme/Byggegrunde",
+          "parent_ids": [
+            591
+          ],
+          "adcount": 6
+        },
+        "208908": {
+          "name": "Flytbare huse",
+          "link": "/ejendomme/flytbare-huse/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Ejendomme/Flytbare huse",
+          "parent_ids": [
+            591
+          ],
+          "adcount": 0
+        },
+        "593": {
+          "name": "Huse",
+          "link": "/ejendomme/huse/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Ejendomme/Huse",
+          "parent_ids": [
+            591
+          ],
+          "adcount": 16
+        },
+        "208909": {
+          "name": "Pavillioner",
+          "link": "/ejendomme/pavillioner/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Ejendomme/Pavillioner",
+          "parent_ids": [
+            591
+          ],
+          "adcount": 0
+        },
+        "595": {
+          "name": "Lejligheder",
+          "link": "/ejendomme/lejligheder/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Ejendomme/Lejligheder",
+          "parent_ids": [
+            591
+          ],
+          "adcount": 23
+        },
+        "209710": {
+          "name": "Værelser",
+          "link": "/ejendomme/vaerelser/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Ejendomme/Værelser",
+          "parent_ids": [
+            591
+          ],
+          "adcount": 0
+        },
+        "4548": {
+          "name": "Sommerhuse (køb/salg)",
+          "link": "/ejendomme/sommerhuse-kobsalg/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Ejendomme/Sommerhuse (køb/salg)",
+          "parent_ids": [
+            591
+          ],
+          "adcount": 2
+        },
+        "594": {
+          "name": "Kolonihavehuse",
+          "link": "/ejendomme/kolonihavehuse/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Ejendomme/Kolonihavehuse",
+          "parent_ids": [
+            591
+          ],
+          "adcount": 3
+        }
+      }
+    },
+    "512": {
+      "name": "Elektronik",
+      "link": "/elektronik/",
+      "children_names": "Alarm og overvågning, Computere, Kameraer, Musik og Film, Radio og TV, Reparation, Spillekonsoller og spil, Andet",
+      "is_personals": false,
+      "path_as_string": "Elektronik",
+      "parent_ids": [],
+      "adcount": 682,
+      "sub_categories": {
+        "6878": {
+          "name": "Alarm og overvågning",
+          "link": "/elektronik/alarm-og-overvaagning/",
+          "children_names": "Alarm, Andet, Bevægelsessensor, Overvågningskamera, Røgalarm",
+          "is_personals": false,
+          "path_as_string": "Elektronik/Alarm og overvågning",
+          "parent_ids": [
+            512
+          ],
+          "adcount": 1
+        },
+        "518": {
+          "name": "Computere",
+          "link": "/elektronik/computere/",
+          "children_names": "Bærbar, Tablet, Hardware, Software, Stationær",
+          "is_personals": false,
+          "path_as_string": "Elektronik/Computere",
+          "parent_ids": [
+            512
+          ],
+          "adcount": 127
+        },
+        "515": {
+          "name": "Kameraer",
+          "link": "/elektronik/kameraer/",
+          "children_names": "Actionkamera, Analoge kameraer, Digitale kameraer, Digitale spejlreflekskameraer, Fotoudstyr, Digitale Mirrorless kameraer, Videokamera",
+          "is_personals": false,
+          "path_as_string": "Elektronik/Kameraer",
+          "parent_ids": [
+            512
+          ],
+          "adcount": 29
+        },
+        "8222": {
+          "name": "Musik og Film",
+          "link": "/elektronik/musik-og-film/",
+          "children_names": "Film, Musik",
+          "is_personals": false,
+          "path_as_string": "Elektronik/Musik og Film",
+          "parent_ids": [
+            512
+          ],
+          "adcount": 68
+        },
+        "521": {
+          "name": "Radio og TV",
+          "link": "/elektronik/radio-tv/",
+          "children_names": "Anlæg, Antenne, Apple TV, Bang & Olufsen, Blu-ray afspiller, CD-afspiller, Chromecast, Digital TV-modtager, DVD-afspiller, DVD-optager, Fjernbetjening, Ghettoblaster, TV, Forstærker, Harddiskoptager, Hovedtelefoner, Højtalere, Kabler og stik, Kassettebåndoptager, Lysshow, Minidisk, Mixerpult, MP3-afspiller, MP4 afspiller, Parabol, Parabolreceiver, Pladespiller, Projektor, Radio, Receiver, Satellitmodtager, Spolebåndoptager, Surround Sound, Videomaskine, Diverse radiotilbehør, Diverse TV-tilbehør",
+          "is_personals": false,
+          "path_as_string": "Elektronik/Radio og TV",
+          "parent_ids": [
+            512
+          ],
+          "adcount": 302
+        },
+        "8292": {
+          "name": "Reparation",
+          "link": "/elektronik/reparation/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Elektronik/Reparation",
+          "parent_ids": [
+            512
+          ],
+          "adcount": 0
+        },
+        "523": {
+          "name": "Spillekonsoller og spil",
+          "link": "/elektronik/spillekonsoller-og-spil/",
+          "children_names": "Nintendo, Playstation, Sega, Xbox, Spillemaskine, Chip, flash og backup, Andet",
+          "is_personals": false,
+          "path_as_string": "Elektronik/Spillekonsoller og spil",
+          "parent_ids": [
+            512
+          ],
+          "adcount": 110
+        },
+        "525": {
+          "name": "Andet",
+          "link": "/elektronik/andet/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Elektronik/Andet",
+          "parent_ids": [
+            512
+          ],
+          "adcount": 45
+        }
+      }
+    },
+    "677": {
+      "name": "Fritid",
+      "link": "/fritid/",
+      "children_names": "Bed & Breakfast, Bøger og blade, Fester og underholdning, Hobby, Håndarbejde, Musikinstrumenter, Sommerhus ønskes, Udlejning af sommerhuse, Rejser og forlystelser, Diverse, Feriebolig - udland, Feriebolig - indland",
+      "is_personals": false,
+      "path_as_string": "Fritid",
+      "parent_ids": [],
+      "adcount": 433,
+      "sub_categories": {
+        "8082": {
+          "name": "Bed & Breakfast",
+          "link": "/fritid/bed-breakfast/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Fritid/Bed & Breakfast",
+          "parent_ids": [
+            677
+          ],
+          "adcount": 0
+        },
+        "678": {
+          "name": "Bøger og blade",
+          "link": "/fritid/boger-og-blade/",
+          "children_names": "Studiebøger, Blade og magasiner, Børnelitteratur, Faglitteratur, Lydbøger, Skønlitteratur, Tegneserier, Andet",
+          "is_personals": false,
+          "path_as_string": "Fritid/Bøger og blade",
+          "parent_ids": [
+            677
+          ],
+          "adcount": 180
+        },
+        "212902": {
+          "name": "Fester og underholdning",
+          "link": "/fritid/fester-og-underholdning/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Fritid/Fester og underholdning",
+          "parent_ids": [
+            677
+          ],
+          "adcount": 0
+        },
+        "3004": {
+          "name": "Hobby",
+          "link": "/fritid/hobby/",
+          "children_names": "Brætspil, Dampmaskine, Dekorationsartikler, Diverse metaller, Drone, Fjernstyret hobby, Keramik, Kikkert, Kunstnerartikler, Modelbil, Modelbåd, Modelfly, Metaldetektor, Modelskib, Modeltog, Salonriffel, Softgun, Spillebord, Papirklip, Perler, Porcelænsmaling, Rollespil, Vinballon, Walkie Talkie udstyr, Andet",
+          "is_personals": false,
+          "path_as_string": "Fritid/Hobby",
+          "parent_ids": [
+            677
+          ],
+          "adcount": 71
+        },
+        "680": {
+          "name": "Håndarbejde",
+          "link": "/fritid/haandarbejde/",
+          "children_names": "Broderi, Garn og stof, Gine, Knapper, Kniplebræt, Mannequin, Opskrift, Overlocker, Patchwork, Rammevæv, Spinderok, Strikkemaskine, Symaskine, Trædesymaskine, Væv, Andet",
+          "is_personals": false,
+          "path_as_string": "Fritid/Håndarbejde",
+          "parent_ids": [
+            677
+          ],
+          "adcount": 28
+        },
+        "681": {
+          "name": "Musikinstrumenter",
+          "link": "/fritid/musikinstrumenter/",
+          "children_names": "Blæseinstrumenter, Harmonika, Tangentinstrumenter, Slagtøj, Strengeinstrumenter, Tilbehør, Andet",
+          "is_personals": false,
+          "path_as_string": "Fritid/Musikinstrumenter",
+          "parent_ids": [
+            677
+          ],
+          "adcount": 74
+        },
+        "5840": {
+          "name": "Sommerhus ønskes",
+          "link": "/fritid/sommerhus-onskes/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Fritid/Sommerhus ønskes",
+          "parent_ids": [
+            677
+          ],
+          "adcount": 0
+        },
+        "704": {
+          "name": "Udlejning af sommerhuse",
+          "link": "/fritid/udlejning-af-sommerhuse/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Fritid/Udlejning af sommerhuse",
+          "parent_ids": [
+            677
+          ],
+          "adcount": 17
+        },
+        "682": {
+          "name": "Rejser og forlystelser",
+          "link": "/fritid/rejser-og-forlystelser/",
+          "children_names": "Rejser, Billetter, Rejsegavekort, Andet",
+          "is_personals": false,
+          "path_as_string": "Fritid/Rejser og forlystelser",
+          "parent_ids": [
+            677
+          ],
+          "adcount": 40
+        },
+        "679": {
+          "name": "Diverse",
+          "link": "/fritid/diverse/",
+          "children_names": "Gavekort, Spil, Andet, Folkedanserdragt",
+          "is_personals": false,
+          "path_as_string": "Fritid/Diverse",
+          "parent_ids": [
+            677
+          ],
+          "adcount": 19
+        },
+        "4547": {
+          "name": "Feriebolig - udland",
+          "link": "/fritid/feriebolig-udland/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Fritid/Feriebolig - udland",
+          "parent_ids": [
+            677
+          ],
+          "adcount": 3
+        },
+        "8076": {
+          "name": "Feriebolig - indland",
+          "link": "/fritid/feriebolig-indland/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Fritid/Feriebolig - indland",
+          "parent_ids": [
+            677
+          ],
+          "adcount": 1
+        }
+      }
+    },
+    "373": {
+      "name": "Hvidevarer",
+      "link": "/hvidevarer/",
+      "children_names": "Emhætter, Indbygningsovn, Fryser, Gaskomfur, Komfur, Kombiovn, Køle/fryseskab, Køleskab, Mikrobølgeovn, Opvaskemaskiner, Tørretumbler, Tørretumblere, Vaskemaskiner, Vaskesøjle, Andre hvidevarer, Tilbehør",
+      "is_personals": false,
+      "path_as_string": "Hvidevarer",
+      "parent_ids": [],
+      "adcount": 226,
+      "sub_categories": {
+        "210172": {
+          "name": "Emhætter",
+          "link": "/hvidevarer/emhaetter/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Hvidevarer/Emhætter",
+          "parent_ids": [
+            373
+          ],
+          "adcount": 13
+        },
+        "5971": {
+          "name": "Indbygningsovn",
+          "link": "/hvidevarer/indbygningsovn/",
+          "children_names": "AEG, Atlas, Bacho, Bauknecht, BBC, Blomberg, Bosch, Candy, Caravell, Castor, Elcold, Electrolux, Euromatic, Ferm, Frigor, Gorenje, Gram, Hoover, Husqvarna, Miele, Moulinex, Norcold, Philips, Siemens, Smeg, Vestfrost, Voss, Vølund, Whirlpool, Zanussi, Anden model",
+          "is_personals": false,
+          "path_as_string": "Hvidevarer/Indbygningsovn",
+          "parent_ids": [
+            373
+          ],
+          "adcount": 7
+        },
+        "375": {
+          "name": "Fryser",
+          "link": "/hvidevarer/fryser/",
+          "children_names": "Kummefryser, Skabsfryser, Anden model",
+          "is_personals": false,
+          "path_as_string": "Hvidevarer/Fryser",
+          "parent_ids": [
+            373
+          ],
+          "adcount": 81
+        },
+        "430": {
+          "name": "Gaskomfur",
+          "link": "/hvidevarer/gaskomfur/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Hvidevarer/Gaskomfur",
+          "parent_ids": [
+            373
+          ],
+          "adcount": 1
+        },
+        "376": {
+          "name": "Komfur",
+          "link": "/hvidevarer/komfur/",
+          "children_names": "AEG, Ariston, Atlas, Bacho, BBC, Bauknecht, Blomberg, Bosch, Brandt, Candy, Caravell, Castor, Dantax, Denver, Elcold, Electrolux, Elvita, Euromatic, Ferm, Frigor, Gaggenau, Gorenje, Gram, Hoover, Ideline, Kenwood, Miele, Moulinex, Norcold, Panasonic, Philips, Samsung, Siemens, Smeg, Tefal, Thermex, Thermor, United, Vestfrost, Voss, Vølund, Wasco, Whirlpool, Wilfa, Zanussi, Husqvarna, Anden",
+          "is_personals": false,
+          "path_as_string": "Hvidevarer/Komfur",
+          "parent_ids": [
+            373
+          ],
+          "adcount": 10
+        },
+        "4935": {
+          "name": "Kombiovn",
+          "link": "/hvidevarer/kombiovn/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Hvidevarer/Kombiovn",
+          "parent_ids": [
+            373
+          ],
+          "adcount": 2
+        },
+        "4698": {
+          "name": "Køle/fryseskab",
+          "link": "/hvidevarer/kolefryseskab/",
+          "children_names": "AEG, Amana, Ardo, Ariston, Asko, Atlas, Bauknecht, Beko, Blomberg, Bosch, Candy, Caravell, Dantax, Ecotronic, Elcold, Electrolux, Elto, Elvita, Euroline, Euromatic, Frigor, Gorenje, Gram, Haier, Hoover, Husqvarna, IAR, Indesit, Kenwood, LG, Liebherr, Matador, Matsui, Miele, Nordcold, Nyborg, Philips, Samsung, Siemens, Smeg, Vestfrost, Vølund, Wasco, Whirlpool, Zanussi, Andre",
+          "is_personals": false,
+          "path_as_string": "Hvidevarer/Køle/fryseskab",
+          "parent_ids": [
+            373
+          ],
+          "adcount": 13
+        },
+        "377": {
+          "name": "Køleskab",
+          "link": "/hvidevarer/koleskab/",
+          "children_names": "AEG, Amana, Ardo, Ariston, Asko, Atlas, Beko, Bauknecht, Blomberg, Bosch, Candy, Caravell, Ecotronic, Elcold, Electrolux, Elto, Elvita, Euroline, Euromatic, Frigor, Gorenje, Gram, Haier, Hoover, Husqvarna, IAR, Indesit, Kenwood, Køle-/svaleskab, LG, Liebherr, Matador, Matsui, Miele, Nordcold, Nyborg, Philips, Samsung, Siemens, Smeg, Vestfrost, Vølund, Wasco, Whirlpool, Zanussi, Andre",
+          "is_personals": false,
+          "path_as_string": "Hvidevarer/Køleskab",
+          "parent_ids": [
+            373
+          ],
+          "adcount": 17
+        },
+        "2958": {
+          "name": "Mikrobølgeovn",
+          "link": "/hvidevarer/mikrobolgeovn/",
+          "children_names": "AEG, Atlas, Bacho, Bauknecht, BBC, Blomberg, Bosch, Candy, Caravell, Castor, Elcold, Electrolux, Euromatic, Ferm, Frigor, Gorenje, Gram, Hoover, Miele, Moulinex, Norcold, OBH, Philips, Siemens, Voss, Vølund, Whirlpool, Zanussi, Andre",
+          "is_personals": false,
+          "path_as_string": "Hvidevarer/Mikrobølgeovn",
+          "parent_ids": [
+            373
+          ],
+          "adcount": 3
+        },
+        "379": {
+          "name": "Opvaskemaskiner",
+          "link": "/hvidevarer/opvaskemaskiner/",
+          "children_names": "AEG, Ariston, Asko, Asko Vølund, Atlas, Bauknecht, Blomberg, Bosch, Brandt, Candy, Cylindia, Ecotronic, Elcold, Electrolux, Elvita, Euroline, Fisher & Paykel, Frigor, Gaggenau, Gorenje, Gram, Haka, Hobart, Hoover, Husqvarna, Hyundai, Iberna, Ideline, Ignis, Indesit, Ken, LG, Matador, Matsui, Melissa, Miele, Norcold, Philips, Siemens, Silver, Smeg, Vestfrost, Vitesse, Vølund, Whirlpool, Wasco, Zanussi, Andre",
+          "is_personals": false,
+          "path_as_string": "Hvidevarer/Opvaskemaskiner",
+          "parent_ids": [
+            373
+          ],
+          "adcount": 14
+        },
+        "210174": {
+          "name": "Tørretumblere",
+          "link": "/hvidevarer/torretumblere/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Hvidevarer/Tørretumblere",
+          "parent_ids": [
+            373
+          ],
+          "adcount": 13
+        },
+        "380": {
+          "name": "Vaskemaskiner",
+          "link": "/hvidevarer/vaskemaskiner/",
+          "children_names": "AEG, Ardo, Atlas, Bahco, Bauknecht, Blomberg, Bosch, Castor, Elcold, Electrolux, Euroline, Euromatic, Frigor, Gorenje, Gram, Hoover, Miele, Philips, Siemens, Vestfrost, Voss, Vølund, Wasco, Whirlpool, Zanussi, Andre",
+          "is_personals": false,
+          "path_as_string": "Hvidevarer/Vaskemaskiner",
+          "parent_ids": [
+            373
+          ],
+          "adcount": 23
+        },
+        "6895": {
+          "name": "Vaskesøjle",
+          "link": "/hvidevarer/vaskesojle/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Hvidevarer/Vaskesøjle",
+          "parent_ids": [
+            373
+          ],
+          "adcount": 1
+        },
+        "374": {
+          "name": "Andre hvidevarer",
+          "link": "/hvidevarer/andre-hvidevarer/",
+          "children_names": "Bordovn, Håndstøvsuger, Industriovn, Kogeplader, Miniovn, Strygejern, Strygerulle, Robotstøvsuger, Støvsuger, Tøjrulle, Varmerulle, Andet",
+          "is_personals": false,
+          "path_as_string": "Hvidevarer/Andre hvidevarer",
+          "parent_ids": [
+            373
+          ],
+          "adcount": 25
+        },
+        "4695": {
+          "name": "Tilbehør",
+          "link": "/hvidevarer/tilbehor/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Hvidevarer/Tilbehør",
+          "parent_ids": [
+            373
+          ],
+          "adcount": 3
+        }
+      }
+    },
+    "616": {
+      "name": "Inde",
+      "link": "/inde/",
+      "children_names": "Badeværelse, Belysning, Brugskunst, Isenkram, Kunst, Køkken, Møbler, Opvarmning, Anden indretning",
+      "is_personals": false,
+      "path_as_string": "Inde",
+      "parent_ids": [],
+      "adcount": 1356,
+      "sub_categories": {
+        "618": {
+          "name": "Badeværelse",
+          "link": "/inde/badevaerelse/",
+          "children_names": "Armatur, Badekar, Bademiljø, Badevægt, Badeværelsesmøbler, Badeværelsestekstiler, Badeværelsestilbehør, Blandingsbatteri, Brusehjørne, Brusekabine, Håndklædetørrer, Håndvask, Vasketøjskurv, Toilet, Sauna, Spa, Spejl, Andet, Toiletbord, Toiletmøbel",
+          "is_personals": false,
+          "path_as_string": "Inde/Badeværelse",
+          "parent_ids": [
+            616
+          ],
+          "adcount": 46
+        },
+        "660": {
+          "name": "Belysning",
+          "link": "/inde/belysning/",
+          "children_names": "Arkitektlampe, Bordlampe, Børnelampe, Gulvlampe, Halogenlampe, Lampe, Lampeskærm, Loftslampe, Lysekrone, Lyskæde, Lysstofrør, LED, Lysstofarmatur, Olielampe, Pendel, Petroleumslampe, Prismelysekrone, Pærer, Standerlampe, Udendørslampe, Væglampe, Andet",
+          "is_personals": false,
+          "path_as_string": "Inde/Belysning",
+          "parent_ids": [
+            616
+          ],
+          "adcount": 92
+        },
+        "5071": {
+          "name": "Brugskunst",
+          "link": "/inde/brugskunst/",
+          "children_names": "Bonbonniere, Bordfad, Bornholmerur, Dragkiste, Dug, Kiste, Kludetæpper, Kort, Kurv, Lampebord, Lysestager, Mælkejunge, Skibsur, Skilte, Standur, Stueur, Sættekasse, Trækasser, Urtepotteskjuler, Vaser, Vægur, Vækkeur, Spejl, Vase, Andet",
+          "is_personals": false,
+          "path_as_string": "Inde/Brugskunst",
+          "parent_ids": [
+            616
+          ],
+          "adcount": 71
+        },
+        "8199": {
+          "name": "Isenkram",
+          "link": "/inde/isenkram/",
+          "children_names": "Affugter, Aircondition, Barometer, Buksepresse, Damprenser, Luftfugter, Luftrenser, Regnmåler, Strygebræt, Termometer, Tørrestativ, Vejrstation, Ventilator, Vinduesvasker, Andet",
+          "is_personals": false,
+          "path_as_string": "Inde/Isenkram",
+          "parent_ids": [
+            616
+          ],
+          "adcount": 2
+        },
+        "669": {
+          "name": "Kunst",
+          "link": "/inde/kunst/",
+          "children_names": "Akvarel, Billede, Litografi, Maleri, Plakat, Ramme, Andet",
+          "is_personals": false,
+          "path_as_string": "Inde/Kunst",
+          "parent_ids": [
+            616
+          ],
+          "adcount": 80
+        },
+        "619": {
+          "name": "Køkken",
+          "link": "/inde/kokken/",
+          "children_names": "Armatur, Bagemaskine, Blender, Bordgrill, Bordplade, Brødkasse, Brødmaskine, Brødrister, Cappuccinomaskine, Demo køkken, Diverse tilbehør, El-kedel, El-kniv, Espressomaskine, Fondue, Foodprocessor, Frituregryde, Gruekedel, Gryde, Hjørnebænk, Håndmixer, Håndvask, Ismaskine, Juicemaskine, Kaffemaskine, Krostole, Kartoffelskræller, Kødhakker, Køkken, Køkkenbord, Køkkenelementer, Køkkenlåger, Køkkenmaskine, Køkkenstole, Madam Blå, Opbevaring, Pande, Popcornmaskine, Pålægsmaskine, Riskoger, Røremaskine, Saftcentrifuge, Saftkoger, Saftpresser, Servering, Service, Sodavandsmaskine, Stavblender, Stegeso, Stempelkande, Stålvask, Tallerkenrække, Toast- og paninimaskine, Tupperware, Udstillingskøkken, Vaffeljern, Vakuumpakkere og Sous Vide, Wok, Æbleskivepande, Æggekoger, Andet",
+          "is_personals": false,
+          "path_as_string": "Inde/Køkken",
+          "parent_ids": [
+            616
+          ],
+          "adcount": 83
+        },
+        "620": {
+          "name": "Møbler",
+          "link": "/inde/mobler/",
+          "children_names": "Antikke møbler, Arkitekttegnede møbler, Bakkebord, Bordplader og bordben, Butlerbord, Cafébord, Daybed, Entrésæt, Kommoder, reoler og skabe, Glasskabe, Klapbord, Konsolbord, Kontormøbler, Kurvemøbler, Rullebord, Senge og tilbehør, Servante, Skibsbrikse og sovesofaer, Sofa og sofagrupper, Sidebord, Sofabord, Skrivepult, Spisestuemøbler, Stereobænk, Stige, Stole, TV-bord, Udtræksbord, Vaskeskab, Vinreol, Andre møbler",
+          "is_personals": false,
+          "path_as_string": "Inde/Møbler",
+          "parent_ids": [
+            616
+          ],
+          "adcount": 771
+        },
+        "6566": {
+          "name": "Opvarmning",
+          "link": "/inde/opvarmning/",
+          "children_names": "Brændeovne, Fyr, Optænding, Ovne og pejse, Solvarme, Varmeblæser, Varmepumpe, Tilbehør til opvarmning",
+          "is_personals": false,
+          "path_as_string": "Inde/Opvarmning",
+          "parent_ids": [
+            616
+          ],
+          "adcount": 91
+        },
+        "621": {
+          "name": "Anden indretning",
+          "link": "/inde/anden-indretning/",
+          "children_names": "Affaldsspand, Barbord, Barskab, Barstol, Bogskab, Bænk, Bøjler, Dørklokke, Erhvervsinventar, Figurer, Flyttekasser, Garderobe, Gardiner og persienner, Globus, Gulvbelægning, Gulvtæppe, Hylder, Hynder, Indskudsbord, Instruktørstol, Klapstole, Klaverbænk, Knagerække, Kontorartikler, Kunstige planter, Kurvestole, Luftmadras, Opbevaringskasser, Potteplante, Rumdeler, Skind, Skohylde, Stabelstole, Stereorack, Stueplante, Stumtjener, Sybord, Taburet, Tapet, Tobaksbord, Tobaksskab, TV-ophæng, Tæpper, Ægte tæpper, Ølkasser, Andet",
+          "is_personals": false,
+          "path_as_string": "Inde/Anden indretning",
+          "parent_ids": [
+            616
+          ],
+          "adcount": 120
+        }
+      }
+    },
+    "815": {
+      "name": "Maskiner og håndværk",
+      "link": "/maskiner/",
+      "children_names": "Landbrugsmaskiner, Entreprenørmaskiner, Entreprenørmateriel, Værktøj og arbejdsredskaber, Jern og skrot",
+      "is_personals": false,
+      "path_as_string": "Maskiner og håndværk",
+      "parent_ids": [],
+      "adcount": 242,
+      "sub_categories": {
+        "843": {
+          "name": "Landbrugsmaskiner",
+          "link": "/maskiner/landbrugsmaskiner/",
+          "children_names": "Græsklipper, Baglæsser, Ballepresser, Balletransportør, Ballevogn, Byggelift, Drænspuler, Dæk og fælge, Fingerklipper, Fodervogn, Frontlæsser, Grønthøster, Gyllevogn, Gummivogn, Gødningsspreder, Halmfyr, Halmsnitter, Halmvogn, Harve, Høvender, Kartoffellægger, Kartoffeloptager, Kombineret sug/spul, Kornblæser, Kornkværn, Kornsnegl, Kornvalse, Kornvægt, Kornvogn, Marksprøjte, Mejetærsker, Mini traktor, Reservedele, Roeoptager, Plov, Silo, Sneplov, Staldinventar, Stubharve, Såmaskine, Tipvogn, Tromle, Traktor, Udlejning, Vandingsmaskine, Vejhøvl, Veterantraktor, Vægt, Andet",
+          "is_personals": false,
+          "path_as_string": "Maskiner og håndværk/Landbrugsmaskiner",
+          "parent_ids": [
+            815
+          ],
+          "adcount": 97
+        },
+        "8116": {
+          "name": "Entreprenørmaskiner",
+          "link": "/maskiner/entreprenormaskiner/",
+          "children_names": "Blokvogn, Bobcat, Bulldozer, Dumper, Fejemaskine, Gaffeltruck, Gravemaskine, Gummiged, Kran, Kranudstyr, Lift, Maskintrailer, Minigraver, Minilæsser, Motorbør, Rendegraver, Reservedele, Saltspreder, Stamper, Teleskoplæsser, Udlejning, Andet",
+          "is_personals": false,
+          "path_as_string": "Maskiner og håndværk/Entreprenørmaskiner",
+          "parent_ids": [
+            815
+          ],
+          "adcount": 20
+        },
+        "212875": {
+          "name": "Entreprenørmateriel",
+          "link": "/maskiner/entreprenormateriel/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Maskiner og håndværk/Entreprenørmateriel",
+          "parent_ids": [
+            815
+          ],
+          "adcount": 0
+        },
+        "816": {
+          "name": "Værktøj og arbejdsredskaber",
+          "link": "/maskiner/vaerktoj-og-arbejdsredskaber/",
+          "children_names": "Affaldscontainer, Affugter, Afretter, Alu-flaske, Ambolt, Arbejdslampe, Arbejdstøj, Bajonetsav, Blandemaskine, Borehammer, Boremaskine, Brændekløver, Brændesav, Båndpudser, Båndsav, 3D-printer, Cementblander, CNC-fræser, Drejebænk, Dykkerpistol, Dykpumpe, El-motor, Fliseskærer, Flishugger, Fræser, Generator, Gevindskærer, Gulvvasker, Hegnsklipper, Højtryksrenser, Høreværn, Høvlebænk, Håndsav, Industristøvsuger, Inspektionskamera, Kapsav, Kompressor, Kædesav, Kædestemmer, Kædetalje, Løftevogn, Minidumper, Motorsav, Nedbrydningshammer, Palleløfter, Pallereol, Pladebukker, Pladeklipper, Pladevibrator, Polermaskine, Redskabsrum, Rundsav, Sandblæser, Savbukke, Sikkerhedshjelm, Sikkerhedssko, Skovl, Skruemaskine, Skruestik, Skurvogn, Slibemaskine, Stillads, Sækkevogn, Stiksav, Stålskab, Svejsemaskiner, Søjleboremaskine, Sømpistol, Tapetafdamper, Topnøglesæt, Transportbånd, Trappestige, Udlejning, Udsugningsanlæg, Vakuumpumpe, Vandpumpe, Varmeblæser, Varmekanon, Vaterpas, Vinkelsliber, Vådsliber, Værkstedsbord, Værkstedsreol, Værktøjskasse, Værktøj, Andet",
+          "is_personals": false,
+          "path_as_string": "Maskiner og håndværk/Værktøj og arbejdsredskaber",
+          "parent_ids": [
+            815
+          ],
+          "adcount": 123
+        },
+        "8158": {
+          "name": "Jern og skrot",
+          "link": "/maskiner/jern-og-skrot/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Maskiner og håndværk/Jern og skrot",
+          "parent_ids": [
+            815
+          ],
+          "adcount": 2
+        }
+      }
+    },
+    "551": {
+      "name": "Mode og skønhed",
+      "link": "/mode/",
+      "children_names": "Accessories, Bryllup, Smykker, Dametøj, Fodtøj, Galla, Herretøj, Personlig pleje, Diverse, Kostumer",
+      "is_personals": false,
+      "path_as_string": "Mode og skønhed",
+      "parent_ids": [],
+      "adcount": 454,
+      "sub_categories": {
+        "553": {
+          "name": "Accessories",
+          "link": "/mode/accessories/",
+          "children_names": "Armbåndsure, Attachetaske, Beautybox, Briller, Broche, Bælter, Handsker og vanter, Hatte og huer, Håndtasker, Hårpynt, Kasketter, Keyhanger, Kortholder, Kosmetikpung, Kuffert, Lommeur, Parfume, Paryk, Pelskrave, Pung, Rejse- og weekendtasker, Rygsæk, Røgvarer, Sjal, Skoletaske, Skuldertaske, Smykkeskrin, Smykkestativ, Solbriller, Toilettaske, Tørklæde, Taske, Andet",
+          "is_personals": false,
+          "path_as_string": "Mode og skønhed/Accessories",
+          "parent_ids": [
+            551
+          ],
+          "adcount": 57
+        },
+        "212518": {
+          "name": "Bryllup",
+          "link": "/mode/bryllup/",
+          "children_names": "Brud, Brudgom, Brudepige og -svend, Andet",
+          "is_personals": false,
+          "path_as_string": "Mode og skønhed/Bryllup",
+          "parent_ids": [
+            551
+          ],
+          "adcount": 16
+        },
+        "566": {
+          "name": "Smykker",
+          "link": "/mode/smykker/",
+          "children_names": "Armbånd, Armring, Broche, Halskæde, Manchetknapper og slipsenåle, Ring, Vedhæng, Øreringe, Andre",
+          "is_personals": false,
+          "path_as_string": "Mode og skønhed/Smykker",
+          "parent_ids": [
+            551
+          ],
+          "adcount": 40
+        },
+        "555": {
+          "name": "Dametøj",
+          "link": "/mode/dametoj/",
+          "children_names": "Badetøj, Konfirmationskjoler, Str. 28-30, Str. 32-36, Str. 38-42, Str. 44-48, Str. 50-64, str. 64-, Andet",
+          "is_personals": false,
+          "path_as_string": "Mode og skønhed/Dametøj",
+          "parent_ids": [
+            551
+          ],
+          "adcount": 205
+        },
+        "5610": {
+          "name": "Fodtøj",
+          "link": "/mode/fodtoj/",
+          "children_names": "Herresko og -støvler, Damesko og -støvler",
+          "is_personals": false,
+          "path_as_string": "Mode og skønhed/Fodtøj",
+          "parent_ids": [
+            551
+          ],
+          "adcount": 47
+        },
+        "212815": {
+          "name": "Galla",
+          "link": "/mode/galla/",
+          "children_names": "Andet tilbehør, Gallakjole",
+          "is_personals": false,
+          "path_as_string": "Mode og skønhed/Galla",
+          "parent_ids": [
+            551
+          ],
+          "adcount": 2
+        },
+        "557": {
+          "name": "Herretøj",
+          "link": "/mode/herretoj/",
+          "children_names": "Badebukser, Blandet, Bluse, Bukser, Undertøj, Cardigan, Cowboybukser, Jakke, Jakkesæt, Frakke, Habit, Kokketøj, Regntøj, Shorts, Skindjakke, Sko, Skjorte, Slips, Smoking, Store str., Streetwear, Strømper, Sweater og strik, T-shirt, Andet",
+          "is_personals": false,
+          "path_as_string": "Mode og skønhed/Herretøj",
+          "parent_ids": [
+            551
+          ],
+          "adcount": 47
+        },
+        "560": {
+          "name": "Personlig pleje",
+          "link": "/mode/personlig-pleje/",
+          "children_names": "Alternativ pleje, Barbermaskine, E-cigaret, El-artikler, Extensions, Fodbad, Glattejern, Handicapudstyr, Hudpleje, Hårfarve, Hårpleje, Hårtrimmer, Hårtørrer, Kontaktlinser, Kosttilskud, Krøllejern, Make up, Massagebriks, Massagestol, Negle og manicure, Parfume, Solarium, Vægttab, Andet",
+          "is_personals": false,
+          "path_as_string": "Mode og skønhed/Personlig pleje",
+          "parent_ids": [
+            551
+          ],
+          "adcount": 34
+        },
+        "563": {
+          "name": "Diverse",
+          "link": "/mode/diverse/",
+          "children_names": "Spejderskjorte, Spejderuniform",
+          "is_personals": false,
+          "path_as_string": "Mode og skønhed/Diverse",
+          "parent_ids": [
+            551
+          ],
+          "adcount": 6
+        },
+        "8097": {
+          "name": "Kostumer",
+          "link": "/mode/kostumer/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Mode og skønhed/Kostumer",
+          "parent_ids": [
+            551
+          ],
+          "adcount": 0
+        }
+      }
+    },
+    "596": {
+      "name": "Samlerobjekter",
+      "link": "/samlerobjekter/",
+      "children_names": "Antikviteter, Platter og figurer, Porcelæn, glas og bestik, Receptkuverter, Andre samlinger",
+      "is_personals": false,
+      "path_as_string": "Samlerobjekter",
+      "parent_ids": [],
+      "adcount": 418,
+      "sub_categories": {
+        "602": {
+          "name": "Antikviteter",
+          "link": "/samlerobjekter/antikviteter/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Samlerobjekter/Antikviteter",
+          "parent_ids": [
+            596
+          ],
+          "adcount": 51
+        },
+        "605": {
+          "name": "Platter og figurer",
+          "link": "/samlerobjekter/platter-og-figurer/",
+          "children_names": "Askebæger, Figurer, Juleplatter, \"Mors dag\" platter, Platter, Andet",
+          "is_personals": false,
+          "path_as_string": "Samlerobjekter/Platter og figurer",
+          "parent_ids": [
+            596
+          ],
+          "adcount": 37
+        },
+        "607": {
+          "name": "Porcelæn, glas og bestik",
+          "link": "/samlerobjekter/porcelaen-glas-og-bestik/",
+          "children_names": "Bestik, Glas, Kaffe- og spisestel, Kaffekande, Kaffekopper, Kaffestel, Knivsæt, Kopper, Krus, Saltkar, Service, Spisestel, Stel, Stentøj, Sølvtøj, Tallerkener, Termokande, Testel, Andet",
+          "is_personals": false,
+          "path_as_string": "Samlerobjekter/Porcelæn, glas og bestik",
+          "parent_ids": [
+            596
+          ],
+          "adcount": 109
+        },
+        "4623": {
+          "name": "Receptkuverter",
+          "link": "/samlerobjekter/receptkuverter/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Samlerobjekter/Receptkuverter",
+          "parent_ids": [
+            596
+          ],
+          "adcount": 12
+        },
+        "609": {
+          "name": "Andre samlinger",
+          "link": "/samlerobjekter/andre-samlinger/",
+          "children_names": "Førstedagskuverter, Brevpapir, Fossiler, Frimærker, Glansbilleder, Dukker, Idolsamlinger, Jubilæumssnaps, Juleakvavit, Julemærker, Kapsler, Kuglepenne, Lightere, Lommeure, Militaria, Modelbiler, Modelmotorcykler, Modeltog, Mælkeflasker, Patentflasker, Penge, Piber, Postkort, Samlinger af vin og spiritus, Servietter, Skilte, Sparebøsse, Sten og krystaller, Telefonkort, Udstoppede dyr, Ølsamling, Årskrus, Andet",
+          "is_personals": false,
+          "path_as_string": "Samlerobjekter/Andre samlinger",
+          "parent_ids": [
+            596
+          ],
+          "adcount": 209
+        }
+      }
+    },
+    "378": {
+      "name": "Sport",
+      "link": "/sport/",
+      "children_names": "Både, Fitness, Flyvning, Jagt og fiskeri, Sportsudstyr, Street, Sø- og sejlsport",
+      "is_personals": false,
+      "path_as_string": "Sport",
+      "parent_ids": [],
+      "adcount": 750,
+      "sub_categories": {
+        "447": {
+          "name": "Både",
+          "link": "/sport/baade/",
+          "children_names": "Både i udlandet, Bådpladser, Bådudlejning, Gummibåd, Jagtbåd, Jetbåd, Jolle, Kabinebåde, Kano og kajak, Motorbåd, Motorsejler, Sejlbåd, Sejljolle, Speedbåd, Strandsejlads, Styrepultbåde, Vandscooter, Andre både, Tilbehør",
+          "is_personals": false,
+          "path_as_string": "Sport/Både",
+          "parent_ids": [
+            378
+          ],
+          "adcount": 83
+        },
+        "382": {
+          "name": "Fitness",
+          "link": "/sport/fitness/",
+          "children_names": "Crosstrainer, Kettlebell, Løbebånd, Mavetræner, Motionsbænk, Motionscykel, Motionsribbe, Pulsur, Romaskine, Stepmaskine, Startnumre, Styrketræning, Træningstøj, Vægte, Andre",
+          "is_personals": false,
+          "path_as_string": "Sport/Fitness",
+          "parent_ids": [
+            378
+          ],
+          "adcount": 206
+        },
+        "8211": {
+          "name": "Flyvning",
+          "link": "/sport/flyvning/",
+          "children_names": "Hanggliding, Motorflyvning, Paragliding, Svæveflyvning, Ultraletflyvning, Anden flyvning",
+          "is_personals": false,
+          "path_as_string": "Sport/Flyvning",
+          "parent_ids": [
+            378
+          ],
+          "adcount": 0
+        },
+        "8177": {
+          "name": "Jagt og fiskeri",
+          "link": "/sport/jagt-og-fiskeri/",
+          "children_names": "Fiskeri, Jagt",
+          "is_personals": false,
+          "path_as_string": "Sport/Jagt og fiskeri",
+          "parent_ids": [
+            378
+          ],
+          "adcount": 359
+        },
+        "383": {
+          "name": "Sportsudstyr",
+          "link": "/sport/udstyr/",
+          "children_names": "Airhockey, Bordfodbold, Bordtennisbord, Bowlingudstyr, Dansesko, Dart, Fodboldstøvler, Golfudstyr, Kampsport, Ketsjer, Poolbord, Skiudstyr, Sportstaske, Skøjter, Sportsbeklædning, Andet, Ishockeyudstyr",
+          "is_personals": false,
+          "path_as_string": "Sport/Sportsudstyr",
+          "parent_ids": [
+            378
+          ],
+          "adcount": 85
+        },
+        "384": {
+          "name": "Street",
+          "link": "/sport/street/",
+          "children_names": "Beklædning og udstyr, Longboard, Løbehjul, Rulleskøjter, Skateboard, Wakeboard, Waveboard, Diverse",
+          "is_personals": false,
+          "path_as_string": "Sport/Street",
+          "parent_ids": [
+            378
+          ],
+          "adcount": 11
+        },
+        "385": {
+          "name": "Sø- og sejlsport",
+          "link": "/sport/sejlsport/",
+          "children_names": "Dykkerudstyr, Tørdragt, Våddragt, Redningsveste, Sejlertøj, Surfing, Vandski, Andet",
+          "is_personals": false,
+          "path_as_string": "Sport/Sø- og sejlsport",
+          "parent_ids": [
+            378
+          ],
+          "adcount": 6
+        }
+      }
+    },
+    "995": {
+      "name": "Telefoner og tilbehør",
+      "link": "/telefoner/",
+      "children_names": "Alcatel, iPhone, iPhone gear, BenQ-Siemens, Blackberry, Doro, Garmin, Google, HTC, Huawei, Lenovo, LG Electronics, Microsoft, Motorola, Nokia, OnePlus, Panasonic, Samsung, Siemens, Sony, Sony Ericsson, Qtek, VK Mobile, Fastnettelefon, IP telefoner, Reparation, Tilbehør, Mobiltelefoner NoName, Andet",
+      "is_personals": false,
+      "path_as_string": "Telefoner og tilbehør",
+      "parent_ids": [],
+      "adcount": 83,
+      "sub_categories": {
+        "996": {
+          "name": "Alcatel",
+          "link": "/telefoner/alcatel/",
+          "children_names": "153, 156, 300, 311, 320, 331, 355, 501, 511, 512, 525, 535, 556, 701, 715, 735, 735i, 757, Club db, E160, E265, Max, OT-E259, View, Anden model, Alcatel tilbehør",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Alcatel",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 0
+        },
+        "6329": {
+          "name": "iPhone",
+          "link": "/telefoner/iphone/",
+          "children_names": "iPhone 3G, iPhone 3GS, iPhone 4, iPhone 4S, iPhone 5, iPhone 5C, iPhone 5S, iPhone 6, iPhone 6 Plus, iPhone 6S, iPhone 6S Plus, iPhone 7, iPhone 7 Plus, iPhone 8, iPhone 8 Plus, iPhone SE, iPhone X, iPhone XR, iPhone Xs, iPhone Xs Max",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/iPhone",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 13
+        },
+        "6673": {
+          "name": "iPhone gear",
+          "link": "/telefoner/iphone-gear/",
+          "children_names": "Biltilbehør, Covers og tasker, Lader og kabler, Reservedele, Andet",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/iPhone gear",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 0
+        },
+        "997": {
+          "name": "BenQ-Siemens",
+          "link": "/telefoner/benq-siemens/",
+          "children_names": "AX72, C81, CF61, CF110, E61, EF51, EF61, EF81, EF91, EL71, M81, ME75, S68, S75, S81, S88, SL75, SL91, Qube ZZ, Anden model, Ben Q-Siemens tilbehør",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/BenQ-Siemens",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 0
+        },
+        "7779": {
+          "name": "Blackberry",
+          "link": "/telefoner/blackberry/",
+          "children_names": "Bold 9000, Bold 9700",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Blackberry",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 0
+        },
+        "212269": {
+          "name": "Doro",
+          "link": "/telefoner/doro/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Doro",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 0
+        },
+        "8070": {
+          "name": "Garmin",
+          "link": "/telefoner/garmin/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Garmin",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 1
+        },
+        "212116": {
+          "name": "Google",
+          "link": "/telefoner/google/",
+          "children_names": "Google Pixel, Google Pixel XL, Google Pixel 2, Google Pixel 2 XL",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Google",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 0
+        },
+        "5893": {
+          "name": "HTC",
+          "link": "/telefoner/htc/",
+          "children_names": "10, 8s, Advantage, Aria, Athena, Desire, Desire 310, Desire 500, Desire 510, Desire 530, Desire 610, Desire 620, Desire 620G, Desire 626, Desire 626s, Desire 816, Desire 820, Desire 825, Desire C, Desire Eye, Desire HD, Desire HD, Desire S, Desire X, Diamond, Diamond 2, Explorer, Google Nexus One, Gratia, Hero, Incredible S, Legend, Magic, MTeoR, One A9, One M7, One M8, One M8s, One M9, One M9 Plus, One Max, One Mini, One Mini 2, One S, One SV, One X, One X+, P3300, P3350, P3400, P3450 Touch, P3600, P3650 Touch, P4350, P6300, P6500, S310, Sensation, Sensation XL, S620, S710, Smart, S730, S740, Tatoo, Titan, Touch dual, Touch II, TyTN, U 11, U 12+, U Play, U Ultra, VOX, 7 Surround, 7 Trophy, Wildfire, Wildfire S, Windows Phone 8X, Wizard, Anden model",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/HTC",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 3
+        },
+        "6436": {
+          "name": "Huawei",
+          "link": "/telefoner/huawei/",
+          "children_names": "Andet, Ascend G510, Ascend G535, Ascend G6, Ascend G620s, Ascend G630, Ascend G700, Ascend Mate S, Ascend W1, Ascend X, Ascend Y300, Discovery, Honor, Honor 2, Honor 3, Honor 3C, Honor 4X, Honor 5X, Honor 6, Honor 7, Honor 7 Lite, Honor 7X, Honor 8, Honor 8 Lite, Honor 8 Pro, Honor 9, Honor U8860, Mate 10 Lite, Mate 10 Pro, Mate 7, Mate 8 , Mate 9, Mate 9 Pro, Nexus 6P, P2, P6, P7, P8, P8 Lite, P9, P9 Lite, P9 Lite Mini, P9 Plus, P Smart, P10, P10 Lite, P10 Plus, P20, P20 Lite, P20 Pro, U8230, Y100, Y200, Y210, Y3, Y300, Y330, Y360, Y5, Y5 2, Y530, Y540, Y550, Y560, Y6, Y6 Pro, Y625",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Huawei",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 2
+        },
+        "212454": {
+          "name": "Lenovo",
+          "link": "/telefoner/lenovo/",
+          "children_names": "A2010, B, C2, K5, K6, Phab 2, Phab 2 Plus, Phab 2 Pro",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Lenovo",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 0
+        },
+        "999": {
+          "name": "LG Electronics",
+          "link": "/telefoner/lg-electronics/",
+          "children_names": "Arena, B2100, B2150, C1100, C1150, C2200, C3300, C3320, C3380, CE500, DM310, E510, Easy Smart, F2300, F60, F70, F2400, F3000, G Flex, G Flex 2, G2, G2 mini, G3, G3 s, G4, G4 c, G4 s, G4 Stylus, G4c Mini, G5, G5 SE, G6, G7 ThinQ, G5300, G5300i, G5400, G7000, G7050, G7100, GD900 Crystal, Joy, K10, K10 4G, K4 LTE, K8 LTE, KE500, KE600, KE800, KE820, KE850, KE970, KF750, KG110, KG130, KG220, KG225, KG245, KG320, KG375, KG800, KG810, KG920, KM900, KP202, KP500, KS10, Ks360, KU250, KU580, KU730, KU970, KU990, L Bello, L Bello II, L Fino, L3100, L40, L65, L70, L90, Leon, Leon 4G LTE, M4410, M6100, Nexus 4, Nexus 5, Nexus 5X, Optimus 4X HD, Optimus F5, Optimus G, Optimus L1 II, Optimus L3, Optimus L3 II, Optimus L4 II, Optimus L5, Optimus L5 II, Optimus L5 II Dual SIM, Optimus L7, Optimus L7 II, Optimus L9, Optimus Vu, P7200, Prada Phone, Prada850, Q6, S5100, Spirit 4G LTE, S5200, T5100, U300, U8120, U8138, U8150, U8360, U880, U890, V10, V30, X, X Screen, Zero, Anden model, LG tilbehør",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/LG Electronics",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 1
+        },
+        "212270": {
+          "name": "Microsoft",
+          "link": "/telefoner/microsoft/",
+          "children_names": "Lumia 435, Lumia 530, Lumia 532, Lumia 535, Lumia 550, Lumia 630, Lumia 635, Lumia 640, Lumia 640 LTE, Lumia 640 XL LTE, Lumia 650, Lumia 735, Lumia 830, Lumia 950, Lumia 950 XL",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Microsoft",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 1
+        },
+        "1000": {
+          "name": "Motorola",
+          "link": "/telefoner/motorola/",
+          "children_names": "Moto G3, Moto G4, Moto G4 Plus, Moto G5, Moto G5 Plus, Moto G6, Moto G6 Play, Moto G6 Plus, Moto Z, Moto Z Droid, Moto Z Force Droid, Moto Z Play, Moto Z Play Droid, Moto Z2 Force, Moto Z2 Play, Moto Z3 Play, 192, 260, 280, A100, Associate 2000, A840, A1000, C115, C139, C200, C261, C450, C550, C650, E1, E2, E365, E398, E8, i830, i860, F3, K1, K3, L2, L6, L7, L9, M3188, M3888, M8989, Q9h, RAZR, T180, T300p, T720, U6, U8, U9, V3, V3i, V3i DOLCE & GABBANA, V3im, V3m, V3xx, V50, V60, V66, V70, V8, V9, V173, V177, V180, V195, V220, V266, V360, V3x, V500, V525, V540, V545, V635, V535, V547, V600, V620, V630, V975, V980, W208, W220, W315, W375, W510, Z10, Z3, Z6, Z8, Anden model, Motorola  tilbehør",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Motorola",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 1
+        },
+        "1001": {
+          "name": "Nokia",
+          "link": "/telefoner/nokia/",
+          "children_names": "3310 2017, 1, 3, 5, 5.1 Plus, 6, 6.1, 7 Plus , 8, 8.1, 810, 1011, 1100, 6600 Fold, Lumia 435, Lumia 530, Lumia 532, Lumia 535, Lumia 540, Lumia 550, Lumia 630, Lumia 635, Lumia 640, Lumia 640 LTE, Lumia 640 XL, Lumia 640 XL LTE, Lumia 650, Lumia 730, Lumia 735, Lumia 800, Lumia 830, Lumia 950, Lumia 950 XL, 1101, 1110, 1110i, 1112, 1200, 1208, 1600, 1650, 2100, 2300, 2310, 2330, 2600, 2610, 2626, 2630, 2650, 2027, 2652, 2660, 2680, 2730, 2760, 3100, 3109, 3110, 3120, 3200, 3210, 3220, 3230, 3250, 3300, 3310, 3410, 3500, 3510, 3510i, 3650, 3660, 3670, 3720, 5070, 5100, 5110, 5140, 5140i, 5200, 5210, 5230, 5300, 5310, 5320, 5500, 5510, 5610, 5700, 5800, 6010, 6020, 6021, 6030, 6060, 6061, 6070, 6080, 6085, 6086, 6090, 6100, 6101, 6102, 6103, 6110, 6111, 6120, 6125, 6131, 6150, 6151, 6170, 6210, 6220, 6230, 6230i, 6233, 6234, 6235i, 6236, 6250, 6256i, 6260, 6267, 6270, 6280, 6288, 6290, 6300, 6303, 6310, 6310i, 6500 Classic, 6500 Slide, 6510, 6555, 6600, 6600i, 6610, 6610i, 6630, 6650, 6670, 6680, 6681, 6700, 6700 Gold, 6700 Slide, 6720, 6730, 6760s, 6800, 6810, 6820, 6822, 7020, 7110, 7200, 7210, 7250, 7250i, 7260, 7270, 7280, 7360, 7370, 7373, 7380, 7390, 7500, 7600, 7610, 7650, 7710, 7900, 8100, 8210, 8250, 8310, 8600, 8800, 8801, 8810, 8850, 8890, 8910, 9210, 9210i, 9300, 9300i, 9500, C5, E50-1, E51, E52, E60, E61, E61i, E65, E66, E70, E71, E71-1, E90, N70, N71, N72, N73, N76, N77, N79, N80, N800, N81, N810, N82, N900, N85, N89+, N90, N91, N92, N93, N93i, N95, N96, N97, N97 Mini, N97 Mini Gold Edition, PT-6, Anden model, X3, X6, Nokia tilbehør",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Nokia",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 19
+        },
+        "211715": {
+          "name": "OnePlus",
+          "link": "/telefoner/oneplus/",
+          "children_names": "1, 2, 3, 3T, 5, 5T, 6, 6T, OnePlus tilbehør, X",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/OnePlus",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 2
+        },
+        "1002": {
+          "name": "Panasonic",
+          "link": "/telefoner/panasonic/",
+          "children_names": "GD87, GD95, KX-A143EXB, KX-TCD400, KX-TG7100NE, VS6, X100, X300, X400, X500, X70, Anden model, Panasonic tilbehør",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Panasonic",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 0
+        },
+        "1003": {
+          "name": "Samsung",
+          "link": "/telefoner/samsung/",
+          "children_names": "Galaxy A3, Galaxy A5, Galaxy A7, Galaxy A8, Galaxy Ace 3, Galaxy Ace Duos, Galaxy Alpha, Galaxy Grand 2, Galaxy J1, Galaxy J3, Galaxy J3 Duos, Galaxy J5, Galaxy J7, Galaxy Note, Galaxy Note 3, Galaxy Note 3 Neo, Galaxy Note 4, Galaxy Note 5, Galaxy Note 8, Galaxy Note 9, Galaxy Note edge, Galaxy Note II, Galaxy S, Galaxy S II, Galaxy S III, Galaxy S III Mini, Galaxy S III Neo, Galaxy S4, Galaxy S4 Mini, Galaxy S4 Mini Duos, Galaxy S5, Galaxy S5 Mini, Galaxy S5 Mini Duos, Galaxy S5 Neo, Galaxy S6, Galaxy S6 edge, Galaxy S6 edge+, Galaxy S7, Galaxy S7 edge, Galaxy S8, Galaxy S8+, Galaxy S9, Galaxy S9+, Galaxy Spica, Galaxy Star, Galaxy Trend 2, Galaxy Trend Lite, Galaxy Xcover, Galaxy Xcover 2, Galaxy Xcover 3, Galaxy Xcover 4, A400, A800, B2100, B2700, C100, C120, Corby, C130, C140, C200N, C260, C300, D410, D500, D500E, D510, D520, KX-TCA 120 EX, D600, D600E, D800, D820, D830, D840, D870, D880, D900, D900i, E250, E610, E330, E330N, E340, E360, E370, E380, E500, E530, E570, E620, E630, E700, E710, E720, E730, E760, E770, E780, E800, E810, E820, E850, E870, E900, E910, E950, F210, F300, F480, F480i, F500, F700, G600, G800, GT-E1080, i450, i900, J600, J700, Jalou, L700, L760, M100, M300, N620, I300, I320, I600, P300, P400, P510, P850, P858, P910, R210s, R225m, S100, S300, S400i, S500, S5230, S8300, S8500 Wave, T100, T500, T809, U600, U700, U800, U900, V200, X100, X160, X200, X210, X300, X450, X460, X480, X490, X510, X520, X530, X600, X630, X640, X650, X660, X670, X680, X700, X800, X820, X830, Z105, Z140, Z150, Z230, Z240, Z300, Z310, Z320i, Z350, Z400, Z500, Z500V, Z540, Z550, Z710, Z720, A300, SGH-M110, Anden model, Samsung tilbehør",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Samsung",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 9
+        },
+        "1004": {
+          "name": "Siemens",
+          "link": "/telefoner/siemens/",
+          "children_names": "A31, A50, A52, A55, A57, A65, A68, A70, A75, AF51, AL21, AP75, AX72, AX75, C25, C35i, C45, C60, C65, C70, C75, C450, CF110, CF62, CF75, CFX65, CL75, CX65, CX70, CX75, Euroset 2015, M35i, M50, M55, M65, M75, MC60, ME45, ME75, S35i, S40, S45, S45i, S55, S65, S75, SF65, SK65, SL42, SL45, SL45i, SL55, SL65, SL75, SL560, ST55, ST60, SXG75, SX1, Anden model, XELIBRI, Siemens tilbehør",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Siemens",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 0
+        },
+        "211901": {
+          "name": "Sony",
+          "link": "/telefoner/sony/",
+          "children_names": "Anden model, Sony tilbehør, Xperia acro S, Xperia C, Xperia C3, Xperia C3 Dual, Xperia C4, Xperia C4 Dual, Xperia C5 Ultra, Xperia C5 Ultra Dual, Xperia E, Xperia E Dual, Xperia E1, Xperia E1 Dual, Xperia E3, Xperia E3 Dual, Xperia E4, Xperia E4 Dual, Xperia E4g, Xperia E4g Dual, Xperia E5, Xperia go, Xperia J, Xperia L, Xperia L2, Xperia M, Xperia M2, Xperia M2 Aqua, Xperia M2 Dual, Xperia M4 Aqua, Xperia M4 Aqua Dual, Xperia M5, Xperia M5 Dual, Xperia P, Xperia S, Xperia SL, Xperia sola, Xperia SP, Xperia T, Xperia T2 Ultra, Xperia T2 Ultra Dual, Xperia T3, Xperia tipo, Xperia U, Xperia V, Xperia X, Xperia X Compact, Xperia X Dual SIM, Xperia X Performance, Xperia X Performance Dual SIM, Xperia XA, Xperia XA Dual SIM, Xperia XA Ultra, Xperia XA Ultra Dual SIM, Xperia XA1, Xperia XA2, Xperia XA2 Ultra, Xperia XZ, Xperia XZ Dual SIM, Xperia XZ Premium, Xperia XZ1, Xperia XZ1 Compact, Xperia XZ2, Xperia XZ2 Compact, Xperia XZs, Xperia Z, Xperia Z Ultra, Xperia Z1 , Xperia Z1 Compact, Xperia Z2, Xperia Z3, Xperia Z3 Compact, Xperia Z3 Dual, Xperia Z3+, Xperia Z3+ Ultra, Xperia Z5, Xperia Z5 Compact, Xperia Z5 Dual, Xperia Z5 Premium, Xperia Z5 Premium Dual, Xperia ZL, Xperia ZR",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Sony",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 0
+        },
+        "998": {
+          "name": "Sony Ericsson",
+          "link": "/telefoner/sony-ericsson/",
+          "children_names": "Aino, Aspen, c510, C702, C902, C905, c910, Cedar, Elm, G900, ga 628, Hazel , J210i, J220i, Jalou, J230i, J300i, K220i, K300i, K310i, K320i, K500, K500i, K508i, K510A, K510i, K530i, K550i, K600i, K608i, K610i, K700i, K750i, K770i, K790a, K790i, K800, K800i, K810i, K850i, M600i, Naite, P800, P900, P910i, P1i, P990i, R306, S500i, Satio, Spiro, S500, S700i, txt, txt pro, T65, T68i, T100, T105, T200, T230, T290i, T300, T310, T600, T610, T630, T650i, T700, T707, T715, V800, Vivaz, Vivaz pro, W200i, W300i Walkman, W350i Walkman, W508, W550i, W580i, W595, W610i, W660i, W700i, W710i, w760i, W8 Walkman, W800i Walkman, W810i Walkman, W850i Walkman, W880i Walkman, w890i Walkman, W900 Walkman, W900i, W910i, W950i Walkman, W960i, W980, W995, X1, X10, X10 mini, X10 mini pro, Xperia active, Xperia Arc, Xperia arc S, Xperia mini, Xperia mini pro, Xperia neo, Xperia neo V, Xperia PLAY, Xperia Pro, Xperia Pureness, Xperia ray, Xperia X2, Xperia X8, Z1010, Z200, Z300i, Z310i, Z520a, Z520i, Z530i, Z550i, Z600, Z610i, Z710i, Z800i, Anden model, Sony Ericsson tilbehør",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Sony Ericsson",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 9
+        },
+        "4556": {
+          "name": "Qtek",
+          "link": "/telefoner/qtek/",
+          "children_names": "1010, Qtek tilbehør, 2020, 2020i, 7070, 8010, 8020, 8060, 8080, 8100, 8200, 8300, 8310, 8500, 8600, 9000, 9090, 9100, 9600, G100, S100, Spv C500, S110, S200, Anden model",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Qtek",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 0
+        },
+        "1005": {
+          "name": "VK Mobile",
+          "link": "/telefoner/vk-mobile/",
+          "children_names": "2000, VK Mobile tilbehør, 2010, 2020, Anden model",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/VK Mobile",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 0
+        },
+        "4567": {
+          "name": "Fastnettelefon",
+          "link": "/telefoner/fastnettelefon/",
+          "children_names": "B&O, Denver, Doro, Ericsson, Jacob Jensen, Kirk, Panasonic, Phillips, Siemens, Skype, Topcom, Anden model",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Fastnettelefon",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 13
+        },
+        "7121": {
+          "name": "IP telefoner",
+          "link": "/telefoner/ip-telefoner/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/IP telefoner",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 0
+        },
+        "8056": {
+          "name": "Reparation",
+          "link": "/telefoner/reparation/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Reparation",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 0
+        },
+        "1006": {
+          "name": "Tilbehør",
+          "link": "/telefoner/tilbehor/",
+          "children_names": "Antenner, Batterier, Bæretasker, Covers, Headset og mikrofoner, Hukommelse, Kabler, Nummerviser, Oplader, Powerbank, Telefonsvarer, Andet",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Tilbehør",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 5
+        },
+        "7084": {
+          "name": "Mobiltelefoner NoName",
+          "link": "/telefoner/mobiltelefoner-noname/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Mobiltelefoner NoName",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 0
+        },
+        "4944": {
+          "name": "Andet",
+          "link": "/telefoner/andet/",
+          "children_names": "",
+          "is_personals": false,
+          "path_as_string": "Telefoner og tilbehør/Andet",
+          "parent_ids": [
+            995
+          ],
+          "adcount": 4
+        }
+      }
+    },
+    "4336": {
+      "name": "Ude",
+      "link": "/ude/",
+      "children_names": "Grøn Energi, Haven, Sten og fliser",
+      "is_personals": false,
+      "path_as_string": "Ude",
+      "parent_ids": [],
+      "adcount": 277,
+      "sub_categories": {
+        "8243": {
+          "name": "Grøn Energi",
+          "link": "/ude/gron-energi/",
+          "children_names": "Jordvarme, Solceller, Solenergi, tulle_test, Vindmøller",
+          "is_personals": false,
+          "path_as_string": "Ude/Grøn Energi",
+          "parent_ids": [
+            4336
+          ],
+          "adcount": 1
+        },
+        "818": {
+          "name": "Haven",
+          "link": "/ude/haven/",
+          "children_names": "Affaldsstativ, Altan, Beplantning, Bjælkehytter, Bord og bænkesæt, Bænk, Bålsted, Carport, Drivhus, Faskine, Flag, Flagstang, Grill og udstyr, Havebelysning, Havebord, Havedam, Havefigurer, Havehegn, Havelåge, Havemaskiner, Havemøbler, Havepavillon, Haveredskaber, Haveslange, Havestole, Højbede, Hyndeboks, Hynder, Hængekøje, Højtryksrenser, Kompostbeholder, Krukker, Kultivator, Legeredskaber, Markise, Olietromler, Palletank, Parasol, Partytelt, Pil, Plantebord, Pool og tilbehør, Postkasse, Presenning, Redskabsskure, Regnvandstank, Rive, Rullebord, Skulptur, Solur, Stige, Terrassevarmer, Trampolin, Trillebør, Udekøkken og tilbehør, Udespa og vildmarksbad, Udestue, Zinkbalje, Andet",
+          "is_personals": false,
+          "path_as_string": "Ude/Haven",
+          "parent_ids": [
+            4336
+          ],
+          "adcount": 243
+        },
+        "820": {
+          "name": "Sten og fliser",
+          "link": "/ude/sten-og-fliser/",
+          "children_names": "Belægningssten, Brosten, Chaussésten, Fliser, Fugesand, Granitsten, Grus, Herregårdssten, Keramiske fliser, Knækfliser, Natursten, Plantesten, Sand, SF-sten, Stenmur, Stenvæg, Støttemur, Teglsten, Andre",
+          "is_personals": false,
+          "path_as_string": "Ude/Sten og fliser",
+          "parent_ids": [
+            4336
+          ],
+          "adcount": 33
+        }
+      }
+    },
+    "7071": {
+      "name": "Erotik",
+      "link": "/erotik/",
+      "children_names": "Erotisk kontakt, Erotisk lingeri, Erotisk massage, Erotiske billeder, Erotiske bøger, Erotiske film, Erotiske genstande, Erotiske hjælpemidler, Erotiske kostumer, Modeljobs, Strip, Swingerklubber, Webcam, sms- og telefonsex m.m.",
+      "is_personals": true,
+      "path_as_string": "Erotik",
+      "parent_ids": [],
+      "adcount": 39,
+      "sub_categories": {
+        "7073": {
+          "name": "Erotisk kontakt",
+          "link": "/erotik/erotisk-kontakt/",
+          "children_names": "Kvinde søger kvinde, Kvinde søger mand, Mand søger kvinde, Mand søger mand, Par søger/søges, Søger mand eller kvinde",
+          "is_personals": true,
+          "path_as_string": "Erotik/Erotisk kontakt",
+          "parent_ids": [
+            7071
+          ],
+          "adcount": 0
+        },
+        "7072": {
+          "name": "Erotisk lingeri",
+          "link": "/erotik/erotisk-lingeri/",
+          "children_names": "",
+          "is_personals": true,
+          "path_as_string": "Erotik/Erotisk lingeri",
+          "parent_ids": [
+            7071
+          ],
+          "adcount": 1
+        },
+        "212128": {
+          "name": "Erotisk massage",
+          "link": "/erotik/erotisk-massage/",
+          "children_names": "",
+          "is_personals": true,
+          "path_as_string": "Erotik/Erotisk massage",
+          "parent_ids": [
+            7071
+          ],
+          "adcount": 2
+        },
+        "212125": {
+          "name": "Erotiske billeder",
+          "link": "/erotik/erotiske-billeder/",
+          "children_names": "",
+          "is_personals": true,
+          "path_as_string": "Erotik/Erotiske billeder",
+          "parent_ids": [
+            7071
+          ],
+          "adcount": 6
+        },
+        "7074": {
+          "name": "Erotiske bøger",
+          "link": "/erotik/erotiske-boger/",
+          "children_names": "",
+          "is_personals": true,
+          "path_as_string": "Erotik/Erotiske bøger",
+          "parent_ids": [
+            7071
+          ],
+          "adcount": 0
+        },
+        "5602": {
+          "name": "Erotiske film",
+          "link": "/erotik/erotiske-film/",
+          "children_names": "",
+          "is_personals": true,
+          "path_as_string": "Erotik/Erotiske film",
+          "parent_ids": [
+            7071
+          ],
+          "adcount": 23
+        },
+        "212127": {
+          "name": "Erotiske genstande",
+          "link": "/erotik/erotiske-genstande/",
+          "children_names": "",
+          "is_personals": true,
+          "path_as_string": "Erotik/Erotiske genstande",
+          "parent_ids": [
+            7071
+          ],
+          "adcount": 1
+        },
+        "7075": {
+          "name": "Erotiske hjælpemidler",
+          "link": "/erotik/erotiske-hjaelpemidler/",
+          "children_names": "",
+          "is_personals": true,
+          "path_as_string": "Erotik/Erotiske hjælpemidler",
+          "parent_ids": [
+            7071
+          ],
+          "adcount": 6
+        },
+        "7573": {
+          "name": "Erotiske kostumer",
+          "link": "/erotik/erotiske-kostumer/",
+          "children_names": "",
+          "is_personals": true,
+          "path_as_string": "Erotik/Erotiske kostumer",
+          "parent_ids": [
+            7071
+          ],
+          "adcount": 0
+        },
+        "212135": {
+          "name": "Modeljobs",
+          "link": "/erotik/modeljobs/",
+          "children_names": "",
+          "is_personals": true,
+          "path_as_string": "Erotik/Modeljobs",
+          "parent_ids": [
+            7071
+          ],
+          "adcount": 0
+        },
+        "8203": {
+          "name": "Strip",
+          "link": "/erotik/strip/",
+          "children_names": "",
+          "is_personals": true,
+          "path_as_string": "Erotik/Strip",
+          "parent_ids": [
+            7071
+          ],
+          "adcount": 0
+        },
+        "8191": {
+          "name": "Swingerklubber",
+          "link": "/erotik/swingerklubber/",
+          "children_names": "",
+          "is_personals": true,
+          "path_as_string": "Erotik/Swingerklubber",
+          "parent_ids": [
+            7071
+          ],
+          "adcount": 0
+        },
+        "212126": {
+          "name": "Webcam, sms- og telefonsex m.m.",
+          "link": "/erotik/webcam-sms-og-telefonsex-mm/",
+          "children_names": "",
+          "is_personals": true,
+          "path_as_string": "Erotik/Webcam, sms- og telefonsex m.m.",
+          "parent_ids": [
+            7071
+          ],
+          "adcount": 0
+        }
+      }
+    }
+  }
+}

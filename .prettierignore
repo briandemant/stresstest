@@ -1,0 +1,13 @@
+__generated__
+node_modules
+.ci
+package.json
+.editorconfig
+Dockerfile
+*.yml
+*.yaml
+*.sh
+*.lock
+.*ignore
+*.log
+Hacks/

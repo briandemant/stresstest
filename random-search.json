@@ -1,0 +1,1898 @@
+{
+  "categories": [
+    {
+      "id": 373,
+      "slug": "hvidevarer/",
+      "words": [
+        "hÃ¥rd"
+      ]
+    },
+    {
+      "id": 374,
+      "slug": "hvidevarer/andre-hvidevarer/",
+      "words": []
+    },
+    {
+      "id": 375,
+      "slug": "hvidevarer/fryser/",
+      "words": []
+    },
+    {
+      "id": 376,
+      "slug": "hvidevarer/komfur/",
+      "words": []
+    },
+    {
+      "id": 377,
+      "slug": "hvidevarer/koleskab/",
+      "words": [
+        "lille kÃ¸leskab",
+        "12 volt kÃ¸leskab"
+      ]
+    },
+    {
+      "id": 379,
+      "slug": "hvidevarer/opvaskemaskiner/",
+      "words": [
+        "opvaske",
+        "smal opvaskemaskine",
+        "45 opvaskemaskine"
+      ]
+    },
+    {
+      "id": 380,
+      "slug": "hvidevarer/vaskemaskiner/",
+      "words": [
+        "centrifuge"
+      ]
+    },
+    {
+      "id": 430,
+      "slug": "hvidevarer/gaskomfur/",
+      "words": [
+        "gas"
+      ]
+    },
+    {
+      "id": 2958,
+      "slug": "hvidevarer/mikrobolgeovn/",
+      "words": [
+        "mikro",
+        "micro"
+      ]
+    },
+    {
+      "id": 4695,
+      "slug": "hvidevarer/tilbehor/",
+      "words": []
+    },
+    {
+      "id": 4698,
+      "slug": "hvidevarer/kolefryseskab/",
+      "words": [
+        "kÃ¸l frys",
+        "kÃ¸lefryse",
+        "kÃ¸le f"
+      ]
+    },
+    {
+      "id": 4935,
+      "slug": "hvidevarer/kombiovn/",
+      "words": []
+    },
+    {
+      "id": 5971,
+      "slug": "hvidevarer/indbygningsovn/",
+      "words": [
+        "indbygningsovn, pyrolyse"
+      ]
+    },
+    {
+      "id": 6895,
+      "slug": "hvidevarer/vaskesojle/",
+      "words": []
+    },
+    {
+      "id": 210172,
+      "slug": "hvidevarer/emhaetter/",
+      "words": [
+        "trepol",
+        "emfang loft"
+      ]
+    },
+    {
+      "id": 210174,
+      "slug": "hvidevarer/torretumblere/",
+      "words": [
+        "kondens tÃ¸rre"
+      ]
+    },
+    {
+      "id": 378,
+      "slug": "sport/",
+      "words": []
+    },
+    {
+      "id": 382,
+      "slug": "sport/fitness/",
+      "words": []
+    },
+    {
+      "id": 383,
+      "slug": "sport/udstyr/",
+      "words": []
+    },
+    {
+      "id": 384,
+      "slug": "sport/street/",
+      "words": []
+    },
+    {
+      "id": 385,
+      "slug": "sport/sejlsport/",
+      "words": []
+    },
+    {
+      "id": 447,
+      "slug": "sport/baade/",
+      "words": []
+    },
+    {
+      "id": 8177,
+      "slug": "sport/jagt-og-fiskeri/",
+      "words": []
+    },
+    {
+      "id": 8211,
+      "slug": "sport/flyvning/",
+      "words": []
+    },
+    {
+      "id": 512,
+      "slug": "elektronik/",
+      "words": []
+    },
+    {
+      "id": 515,
+      "slug": "elektronik/kameraer/",
+      "words": []
+    },
+    {
+      "id": 518,
+      "slug": "elektronik/computere/",
+      "words": []
+    },
+    {
+      "id": 521,
+      "slug": "elektronik/radio-tv/",
+      "words": [
+        "dac",
+        "plasma",
+        "harman kardon",
+        "triax",
+        "tivoli",
+        "stereo",
+        "sonos",
+        "pioneer",
+        "pickup",
+        "kloss",
+        "smart tv",
+        "ultra hd",
+        "eq",
+        "cassete",
+        "radio 1 din",
+        "video",
+        "transistor",
+        "tom tom",
+        "stereoanlÃ¦g",
+        "sonny"
+      ]
+    },
+    {
+      "id": 523,
+      "slug": "elektronik/spillekonsoller-og-spil/",
+      "words": []
+    },
+    {
+      "id": 525,
+      "slug": "elektronik/andet/",
+      "words": [
+        "brugte symaskiner",
+        "hÃ¸reapparat",
+        "fremviser",
+        "razer",
+        "inverter",
+        "disko"
+      ]
+    },
+    {
+      "id": 6878,
+      "slug": "elektronik/alarm-og-overvaagning/",
+      "words": []
+    },
+    {
+      "id": 8222,
+      "slug": "elektronik/musik-og-film/",
+      "words": []
+    },
+    {
+      "id": 8292,
+      "slug": "elektronik/reparation/",
+      "words": []
+    },
+    {
+      "id": 551,
+      "slug": "mode/",
+      "words": []
+    },
+    {
+      "id": 553,
+      "slug": "mode/accessories/",
+      "words": []
+    },
+    {
+      "id": 555,
+      "slug": "mode/dametoj/",
+      "words": []
+    },
+    {
+      "id": 557,
+      "slug": "mode/herretoj/",
+      "words": []
+    },
+    {
+      "id": 560,
+      "slug": "mode/personlig-pleje/",
+      "words": []
+    },
+    {
+      "id": 563,
+      "slug": "mode/diverse/",
+      "words": []
+    },
+    {
+      "id": 566,
+      "slug": "mode/smykker/",
+      "words": []
+    },
+    {
+      "id": 5610,
+      "slug": "mode/fodtoj/",
+      "words": []
+    },
+    {
+      "id": 8097,
+      "slug": "mode/kostumer/",
+      "words": []
+    },
+    {
+      "id": 212518,
+      "slug": "mode/bryllup/",
+      "words": []
+    },
+    {
+      "id": 212815,
+      "slug": "mode/galla/",
+      "words": []
+    },
+    {
+      "id": 581,
+      "slug": "diverse/",
+      "words": []
+    },
+    {
+      "id": 584,
+      "slug": "diverse/bortgives/",
+      "words": []
+    },
+    {
+      "id": 585,
+      "slug": "diverse/byttes/",
+      "words": []
+    },
+    {
+      "id": 589,
+      "slug": "diverse/markeder/",
+      "words": [
+        "loppe"
+      ]
+    },
+    {
+      "id": 590,
+      "slug": "diverse/kontakt/",
+      "words": []
+    },
+    {
+      "id": 2654,
+      "slug": "diverse/onskes-gratis/",
+      "words": []
+    },
+    {
+      "id": 4552,
+      "slug": "diverse/fodevarer/",
+      "words": []
+    },
+    {
+      "id": 4941,
+      "slug": "diverse/festartikler-udlejning/",
+      "words": []
+    },
+    {
+      "id": 4973,
+      "slug": "diverse/beskaeftigelse/",
+      "words": []
+    },
+    {
+      "id": 6074,
+      "slug": "diverse/varepartier/",
+      "words": []
+    },
+    {
+      "id": 6116,
+      "slug": "diverse/jul-og-nytaar/",
+      "words": []
+    },
+    {
+      "id": 7878,
+      "slug": "diverse/andet/",
+      "words": [
+        "gratis",
+        "pind",
+        "maskinhal",
+        "glitter",
+        "trofÃ¦er",
+        "rustf",
+        "mÃ¦lkespand",
+        "spilleautomat",
+        "salamander",
+        "pÃ¸lse",
+        "pizza ovn",
+        "nocturne",
+        "lagerhal",
+        "brandslukker"
+      ]
+    },
+    {
+      "id": 8162,
+      "slug": "diverse/dodsbo-saelges/",
+      "words": []
+    },
+    {
+      "id": 8284,
+      "slug": "diverse/dodsbo-kobes/",
+      "words": [
+        "dÃ¸dsboer"
+      ]
+    },
+    {
+      "id": 212232,
+      "slug": "diverse/vin-og-spiritus/",
+      "words": [
+        "vin",
+        "whisky"
+      ]
+    },
+    {
+      "id": 212836,
+      "slug": "diverse/sundhed/",
+      "words": []
+    },
+    {
+      "id": 213147,
+      "slug": "diverse/paaskepynt/",
+      "words": [
+        "pÃ¥ske"
+      ]
+    },
+    {
+      "id": 222951,
+      "slug": "diverse/auktioner/",
+      "words": []
+    },
+    {
+      "id": 591,
+      "slug": "ejendomme/",
+      "words": []
+    },
+    {
+      "id": 592,
+      "slug": "ejendomme/byggegrunde/",
+      "words": []
+    },
+    {
+      "id": 593,
+      "slug": "ejendomme/huse/",
+      "words": [
+        "skur",
+        "ejendomme udlejes",
+        "udlejes",
+        "huse til salg",
+        "hus til leje",
+        "fremleje",
+        "ejendom bytte"
+      ]
+    },
+    {
+      "id": 594,
+      "slug": "ejendomme/kolonihavehuse/",
+      "words": [
+        "kolonihave",
+        "kolonihavehu"
+      ]
+    },
+    {
+      "id": 595,
+      "slug": "ejendomme/lejligheder/",
+      "words": [
+        "lejlighed kÃ¸benhavn",
+        "lejebolig"
+      ]
+    },
+    {
+      "id": 4548,
+      "slug": "ejendomme/sommerhuse-kobsalg/",
+      "words": [
+        "sommerhus til salg",
+        "sommerhus salg"
+      ]
+    },
+    {
+      "id": 5890,
+      "slug": "ejendomme/depot-og-opbevaring/",
+      "words": []
+    },
+    {
+      "id": 6856,
+      "slug": "ejendomme/ejendom-udland/",
+      "words": []
+    },
+    {
+      "id": 8326,
+      "slug": "ejendomme/andelsboliger/",
+      "words": [
+        "andelsbolig"
+      ]
+    },
+    {
+      "id": 208908,
+      "slug": "ejendomme/flytbare-huse/",
+      "words": [
+        "flytbare",
+        "isoleret anneks",
+        "flytbart hus",
+        "flytbart",
+        "beboelsesvogn"
+      ]
+    },
+    {
+      "id": 208909,
+      "slug": "ejendomme/pavillioner/",
+      "words": []
+    },
+    {
+      "id": 209710,
+      "slug": "ejendomme/vaerelser/",
+      "words": [
+        "hus til leje",
+        "udlejes",
+        "til leje"
+      ]
+    },
+    {
+      "id": 209736,
+      "slug": "ejendomme/erhvervslokaler/",
+      "words": [
+        "vÃ¦rksted",
+        "stÃ¥lhal",
+        "udlejes",
+        "hal",
+        "erhvervslejemÃ¥l",
+        "stÃ¥lbuer",
+        "vÃ¦rksted udlejes",
+        "togvogn",
+        "sindal",
+        "ramper",
+        "sandwich plade",
+        "lys",
+        "lokaler odense",
+        "ledhejseport",
+        "lager",
+        "garager",
+        "butik leje",
+        "bo"
+      ]
+    },
+    {
+      "id": 596,
+      "slug": "samlerobjekter/",
+      "words": []
+    },
+    {
+      "id": 602,
+      "slug": "samlerobjekter/antikviteter/",
+      "words": []
+    },
+    {
+      "id": 605,
+      "slug": "samlerobjekter/platter-og-figurer/",
+      "words": []
+    },
+    {
+      "id": 607,
+      "slug": "samlerobjekter/porcelaen-glas-og-bestik/",
+      "words": []
+    },
+    {
+      "id": 609,
+      "slug": "samlerobjekter/andre-samlinger/",
+      "words": []
+    },
+    {
+      "id": 4623,
+      "slug": "samlerobjekter/receptkuverter/",
+      "words": []
+    },
+    {
+      "id": 597,
+      "slug": "transport/",
+      "words": []
+    },
+    {
+      "id": 598,
+      "slug": "transport/cykler-og-tilbehor/",
+      "words": []
+    },
+    {
+      "id": 599,
+      "slug": "transport/knallerter/",
+      "words": []
+    },
+    {
+      "id": 600,
+      "slug": "transport/motorcykler-og-tilbehor/",
+      "words": []
+    },
+    {
+      "id": 4549,
+      "slug": "transport/crossere-go-carts/",
+      "words": []
+    },
+    {
+      "id": 5864,
+      "slug": "transport/scooter/",
+      "words": [
+        "vga",
+        "sonic",
+        "knallert 30",
+        "t rex",
+        "peugeot speedfight",
+        "tgb",
+        "skyteam",
+        "pmx",
+        "street magic",
+        "hot50",
+        "giantco",
+        "vga explora",
+        "pgo dr",
+        "vga digita",
+        "aprilla",
+        "ape 50"
+      ]
+    },
+    {
+      "id": 616,
+      "slug": "inde/",
+      "words": []
+    },
+    {
+      "id": 618,
+      "slug": "inde/badevaerelse/",
+      "words": [
+        "vask",
+        "ifÃ¸",
+        "glasvÃ¦g",
+        "brusevÃ¦g",
+        "wc",
+        "underskab",
+        "toiletskab",
+        "porcelÃ¦nsvask",
+        "hÃ¸jskabe",
+        "gulvaflÃ¸b",
+        "granit hÃ¥ndvask",
+        "berÃ¸ringsfri",
+        "badev"
+      ]
+    },
+    {
+      "id": 619,
+      "slug": "inde/kokken/",
+      "words": [
+        "stelton",
+        "bryggers",
+        "industrikÃ¸kken",
+        "vask",
+        "overskabe",
+        "kaffebrygger",
+        "rustfri",
+        "melitta",
+        "hÃ¸jskabe",
+        "granit kÃ¸kk",
+        "gourmet",
+        "alessi",
+        "tragt",
+        "siemes",
+        "rustfri stÃ¥l",
+        "pÃ¸lses",
+        "nÃ¸dstrÃ¸msanlÃ¦g",
+        "mikro",
+        "magimix",
+        "kÃ¸kkenrulle"
+      ]
+    },
+    {
+      "id": 620,
+      "slug": "inde/mobler/",
+      "words": [
+        "wegner",
+        "chesterfields",
+        "ch",
+        "gevÃ¦r",
+        "Ã¦gge",
+        "wikkelsÃ¸",
+        "thonet",
+        "y stole",
+        "siesta",
+        "poul volter",
+        "verner panton",
+        "mÃ¸belbeslag",
+        "mogens koch",
+        "mogens hansen",
+        "fdb",
+        "egetrÃ¦",
+        "eames",
+        "dÃ¦kketÃ¸jss",
+        "chartol",
+        "bÃ¸rge mogensen"
+      ]
+    },
+    {
+      "id": 621,
+      "slug": "inde/anden-indretning/",
+      "words": []
+    },
+    {
+      "id": 660,
+      "slug": "inde/belysning/",
+      "words": []
+    },
+    {
+      "id": 669,
+      "slug": "inde/kunst/",
+      "words": []
+    },
+    {
+      "id": 5071,
+      "slug": "inde/brugskunst/",
+      "words": [
+        "georg jensen",
+        "sÃ¸holm",
+        "bronze",
+        "Ã¦g",
+        "holmegaard",
+        "george jens",
+        "georg jensen duge",
+        "lene bjerre",
+        "walther",
+        "ugle",
+        "skagerak",
+        "prisme",
+        "orkide",
+        "menu lyse",
+        "lyse",
+        "lille",
+        "kÃ¤hler",
+        "kobber",
+        "knopper",
+        "kaminur"
+      ]
+    },
+    {
+      "id": 6566,
+      "slug": "inde/opvarmning/",
+      "words": []
+    },
+    {
+      "id": 8199,
+      "slug": "inde/isenkram/",
+      "words": []
+    },
+    {
+      "id": 677,
+      "slug": "fritid/",
+      "words": [
+        "sommerhus",
+        "links",
+        "fjellerup",
+        "bÃ¥d gratis",
+        "kroge til butik",
+        "bordtennis"
+      ]
+    },
+    {
+      "id": 678,
+      "slug": "fritid/boger-og-blade/",
+      "words": []
+    },
+    {
+      "id": 679,
+      "slug": "fritid/diverse/",
+      "words": []
+    },
+    {
+      "id": 680,
+      "slug": "fritid/haandarbejde/",
+      "words": []
+    },
+    {
+      "id": 681,
+      "slug": "fritid/musikinstrumenter/",
+      "words": []
+    },
+    {
+      "id": 682,
+      "slug": "fritid/rejser-og-forlystelser/",
+      "words": []
+    },
+    {
+      "id": 704,
+      "slug": "fritid/udlejning-af-sommerhuse/",
+      "words": [
+        "sommerhus",
+        "udlejning somme",
+        "leje af sommerhus",
+        "hus sverige",
+        "sommer huse"
+      ]
+    },
+    {
+      "id": 3004,
+      "slug": "fritid/hobby/",
+      "words": []
+    },
+    {
+      "id": 4547,
+      "slug": "fritid/feriebolig-udland/",
+      "words": []
+    },
+    {
+      "id": 5840,
+      "slug": "fritid/sommerhus-onskes/",
+      "words": []
+    },
+    {
+      "id": 8076,
+      "slug": "fritid/feriebolig-indland/",
+      "words": []
+    },
+    {
+      "id": 8082,
+      "slug": "fritid/bed-breakfast/",
+      "words": []
+    },
+    {
+      "id": 212902,
+      "slug": "fritid/fester-og-underholdning/",
+      "words": [
+        "fustage",
+        "fadÃ¸lsanlÃ¦g"
+      ]
+    },
+    {
+      "id": 698,
+      "slug": "dyr/",
+      "words": [
+        "galloway",
+        "rundbuehal",
+        "kvie",
+        "kalveskjul",
+        "hytter",
+        "dorset"
+      ]
+    },
+    {
+      "id": 699,
+      "slug": "dyr/akvariefisk/",
+      "words": []
+    },
+    {
+      "id": 701,
+      "slug": "dyr/fugle/",
+      "words": []
+    },
+    {
+      "id": 703,
+      "slug": "dyr/heste/",
+      "words": []
+    },
+    {
+      "id": 705,
+      "slug": "dyr/hunde/",
+      "words": []
+    },
+    {
+      "id": 706,
+      "slug": "dyr/husdyr/",
+      "words": []
+    },
+    {
+      "id": 708,
+      "slug": "dyr/katte/",
+      "words": []
+    },
+    {
+      "id": 709,
+      "slug": "dyr/krybdyr/",
+      "words": []
+    },
+    {
+      "id": 710,
+      "slug": "dyr/andre-kaeledyr/",
+      "words": []
+    },
+    {
+      "id": 4571,
+      "slug": "dyr/tilbehor/",
+      "words": [
+        "transportka",
+        "byg korn",
+        "hÃ¸hÃ¦k",
+        "havre",
+        "gnavere",
+        "dyrehegn"
+      ]
+    },
+    {
+      "id": 7019,
+      "slug": "dyr/pensionpasning/",
+      "words": []
+    },
+    {
+      "id": 713,
+      "slug": "camping/",
+      "words": []
+    },
+    {
+      "id": 727,
+      "slug": "camping/campingvogne/",
+      "words": []
+    },
+    {
+      "id": 729,
+      "slug": "camping/teltvogn/",
+      "words": []
+    },
+    {
+      "id": 732,
+      "slug": "camping/tilbehor-og-udstyr/",
+      "words": [
+        "camp",
+        "plÃ¸kker til",
+        "975",
+        "campin",
+        "kÃ¸lebokse",
+        "isabella universal",
+        "kampa air pro plus",
+        "6 kg gas"
+      ]
+    },
+    {
+      "id": 733,
+      "slug": "camping/udlejning-og-opbevaring/",
+      "words": [
+        "adria adora 552"
+      ]
+    },
+    {
+      "id": 4947,
+      "slug": "camping/autocamper/",
+      "words": [
+        "autocamper'",
+        "aircon",
+        "fÃ¸rerhus",
+        "autocamper kÃ¸jer",
+        "gas alarm"
+      ]
+    },
+    {
+      "id": 8086,
+      "slug": "camping/reservedele/",
+      "words": []
+    },
+    {
+      "id": 756,
+      "slug": "barn-og-baby/",
+      "words": []
+    },
+    {
+      "id": 760,
+      "slug": "barn-og-baby/borneartikler/",
+      "words": []
+    },
+    {
+      "id": 762,
+      "slug": "barn-og-baby/bornemobler/",
+      "words": [
+        "tripp trapp"
+      ]
+    },
+    {
+      "id": 765,
+      "slug": "barn-og-baby/bornetransport/",
+      "words": []
+    },
+    {
+      "id": 767,
+      "slug": "barn-og-baby/bornetoj/",
+      "words": []
+    },
+    {
+      "id": 769,
+      "slug": "barn-og-baby/legetoj/",
+      "words": []
+    },
+    {
+      "id": 6197,
+      "slug": "barn-og-baby/ventetoj/",
+      "words": []
+    },
+    {
+      "id": 7439,
+      "slug": "barn-og-baby/ammetoj/",
+      "words": []
+    },
+    {
+      "id": 7984,
+      "slug": "barn-og-baby/baby-og-borneudstyr/",
+      "words": [
+        "beemoo",
+        "sikkerhedsgitter",
+        "ski sele",
+        "puslepude",
+        "pusle",
+        "petite",
+        "regnslag barnevogn"
+      ]
+    },
+    {
+      "id": 8098,
+      "slug": "barn-og-baby/kostumer/",
+      "words": [
+        "fastelavnsdragt",
+        "fastelavn",
+        "udklÃ¦dning 9"
+      ]
+    },
+    {
+      "id": 815,
+      "slug": "maskiner/",
+      "words": []
+    },
+    {
+      "id": 816,
+      "slug": "maskiner/vaerktoj-og-arbejdsredskaber/",
+      "words": []
+    },
+    {
+      "id": 843,
+      "slug": "maskiner/landbrugsmaskiner/",
+      "words": [
+        "bukh",
+        "case ih",
+        "valmet",
+        "case",
+        "john deere",
+        "mÃ¸gspreder",
+        "grubber",
+        "aflÃ¦sservogn",
+        "bukh 302",
+        "taarup",
+        "david brown",
+        "john",
+        "ih",
+        "volvo bm",
+        "sprÃ¸jte",
+        "zetor",
+        "jf",
+        "hardi",
+        "skovvogn",
+        "maskin"
+      ]
+    },
+    {
+      "id": 8116,
+      "slug": "maskiner/entreprenormaskiner/",
+      "words": [
+        "avant",
+        "klemmer",
+        "tra",
+        "takeuchi",
+        "wolf",
+        "teleskop",
+        "stabler",
+        "rotator",
+        "planerskovl",
+        "pallegafler",
+        "mÃ¸lle",
+        "joh",
+        "new holland",
+        "honda gx",
+        "dieselmotor",
+        "cane"
+      ]
+    },
+    {
+      "id": 8158,
+      "slug": "maskiner/jern-og-skrot/",
+      "words": []
+    },
+    {
+      "id": 212875,
+      "slug": "maskiner/entreprenormateriel/",
+      "words": [
+        "container",
+        "vandingsrÃ¸r",
+        "stavvibrator",
+        "kranbil",
+        "brugte container"
+      ]
+    },
+    {
+      "id": 817,
+      "slug": "byggematerialer/",
+      "words": []
+    },
+    {
+      "id": 821,
+      "slug": "byggematerialer/dore/",
+      "words": [
+        "mahogni",
+        "vinterhave",
+        "vindue",
+        "skur",
+        "rationel",
+        "glasparti",
+        "facade",
+        "dobbelt terrassedÃ¸re",
+        "fransk dÃ¸r dobbelt",
+        "alu trÃ¦"
+      ]
+    },
+    {
+      "id": 822,
+      "slug": "byggematerialer/el-artikler/",
+      "words": []
+    },
+    {
+      "id": 826,
+      "slug": "byggematerialer/glas-og-vinduer/",
+      "words": []
+    },
+    {
+      "id": 827,
+      "slug": "byggematerialer/vvs/",
+      "words": []
+    },
+    {
+      "id": 828,
+      "slug": "byggematerialer/andre-materialer/",
+      "words": [
+        "paller",
+        "limtrÃ¦",
+        "jern",
+        "lagerhal",
+        "bjÃ¦lker",
+        "skiffer",
+        "krydsfiner",
+        "troldtekt",
+        "kloakrÃ¸r",
+        "vinkeljern",
+        "stolper",
+        "murrer",
+        "stÃ¥ltrappe",
+        "stÃ¥lskorsten",
+        "overlÃ¦gger",
+        "brÃ¦dder",
+        "vÃ¦gfliser",
+        "vinkel",
+        "tÃ¸mmer",
+        "trapez"
+      ]
+    },
+    {
+      "id": 6842,
+      "slug": "byggematerialer/porte/",
+      "words": []
+    },
+    {
+      "id": 885,
+      "slug": "biler/",
+      "words": []
+    },
+    {
+      "id": 886,
+      "slug": "biler/personbiler/",
+      "words": []
+    },
+    {
+      "id": 887,
+      "slug": "biler/reservedele/",
+      "words": [
+        "biler",
+        "punto",
+        "skoda fabia 2009",
+        "audi a4 b8",
+        "mitsubishi colt",
+        "webasto",
+        "racechip",
+        "ford escort",
+        "bud modtages",
+        "mgb",
+        "hella",
+        "citroen c5",
+        "saab 99",
+        "saab 93",
+        "yun88",
+        "wv",
+        "vandpumpe",
+        "v8",
+        "udstÃ¸dn",
+        "tesla"
+      ]
+    },
+    {
+      "id": 888,
+      "slug": "biler/trailer/",
+      "words": [
+        "neptun"
+      ]
+    },
+    {
+      "id": 889,
+      "slug": "biler/erhvervsbiler/",
+      "words": []
+    },
+    {
+      "id": 2304,
+      "slug": "biler/daek-og-faelge/",
+      "words": []
+    },
+    {
+      "id": 4487,
+      "slug": "biler/udlejning/",
+      "words": []
+    },
+    {
+      "id": 4797,
+      "slug": "biler/autostereo/",
+      "words": [
+        "pioneer",
+        "subwoofer pioneer",
+        "bass kas",
+        "2din",
+        "2 din radio"
+      ]
+    },
+    {
+      "id": 5374,
+      "slug": "biler/styling/",
+      "words": []
+    },
+    {
+      "id": 6835,
+      "slug": "biler/reparation-og-vedligeholdelse/",
+      "words": [
+        "sakselift",
+        "pe",
+        "dÃ¦kmaskine"
+      ]
+    },
+    {
+      "id": 8068,
+      "slug": "biler/lastbiler/",
+      "words": []
+    },
+    {
+      "id": 8096,
+      "slug": "biler/skrot-og-miljobiler/",
+      "words": []
+    },
+    {
+      "id": 8099,
+      "slug": "biler/leasing/",
+      "words": []
+    },
+    {
+      "id": 995,
+      "slug": "telefoner/",
+      "words": []
+    },
+    {
+      "id": 996,
+      "slug": "telefoner/alcatel/",
+      "words": []
+    },
+    {
+      "id": 997,
+      "slug": "telefoner/benq-siemens/",
+      "words": []
+    },
+    {
+      "id": 998,
+      "slug": "telefoner/sony-ericsson/",
+      "words": []
+    },
+    {
+      "id": 999,
+      "slug": "telefoner/lg-electronics/",
+      "words": []
+    },
+    {
+      "id": 1000,
+      "slug": "telefoner/motorola/",
+      "words": []
+    },
+    {
+      "id": 1001,
+      "slug": "telefoner/nokia/",
+      "words": []
+    },
+    {
+      "id": 1002,
+      "slug": "telefoner/panasonic/",
+      "words": []
+    },
+    {
+      "id": 1003,
+      "slug": "telefoner/samsung/",
+      "words": [
+        "samsung telefoner",
+        "samsung galaxy watch"
+      ]
+    },
+    {
+      "id": 1004,
+      "slug": "telefoner/siemens/",
+      "words": []
+    },
+    {
+      "id": 1005,
+      "slug": "telefoner/vk-mobile/",
+      "words": []
+    },
+    {
+      "id": 1006,
+      "slug": "telefoner/tilbehor/",
+      "words": []
+    },
+    {
+      "id": 4556,
+      "slug": "telefoner/qtek/",
+      "words": []
+    },
+    {
+      "id": 4567,
+      "slug": "telefoner/fastnettelefon/",
+      "words": []
+    },
+    {
+      "id": 4944,
+      "slug": "telefoner/andet/",
+      "words": []
+    },
+    {
+      "id": 5893,
+      "slug": "telefoner/htc/",
+      "words": []
+    },
+    {
+      "id": 6329,
+      "slug": "telefoner/iphone/",
+      "words": [
+        "mobilte"
+      ]
+    },
+    {
+      "id": 6436,
+      "slug": "telefoner/huawei/",
+      "words": []
+    },
+    {
+      "id": 6673,
+      "slug": "telefoner/iphone-gear/",
+      "words": []
+    },
+    {
+      "id": 7084,
+      "slug": "telefoner/mobiltelefoner-noname/",
+      "words": [
+        "mobiltelefon",
+        "brugt mobiltelefon"
+      ]
+    },
+    {
+      "id": 7121,
+      "slug": "telefoner/ip-telefoner/",
+      "words": [
+        "ip"
+      ]
+    },
+    {
+      "id": 7779,
+      "slug": "telefoner/blackberry/",
+      "words": []
+    },
+    {
+      "id": 8056,
+      "slug": "telefoner/reparation/",
+      "words": []
+    },
+    {
+      "id": 8070,
+      "slug": "telefoner/garmin/",
+      "words": []
+    },
+    {
+      "id": 211715,
+      "slug": "telefoner/oneplus/",
+      "words": []
+    },
+    {
+      "id": 211901,
+      "slug": "telefoner/sony/",
+      "words": []
+    },
+    {
+      "id": 212116,
+      "slug": "telefoner/google/",
+      "words": []
+    },
+    {
+      "id": 212269,
+      "slug": "telefoner/doro/",
+      "words": []
+    },
+    {
+      "id": 212270,
+      "slug": "telefoner/microsoft/",
+      "words": []
+    },
+    {
+      "id": 212454,
+      "slug": "telefoner/lenovo/",
+      "words": []
+    },
+    {
+      "id": 4336,
+      "slug": "ude/",
+      "words": []
+    },
+    {
+      "id": 818,
+      "slug": "ude/haven/",
+      "words": [
+        "eva solo",
+        "loungesÃ¦t",
+        "shelter",
+        "skur",
+        "tag",
+        "skafter",
+        "granit",
+        "springvand",
+        "lÃ¦hegn",
+        "lille havebord",
+        "bÃ¥l",
+        "rustfri bord",
+        "beton",
+        "terrasse",
+        "stÃ¸bejern",
+        "smedejerns",
+        "skraldespand",
+        "rionet",
+        "prosse vindue",
+        "polyrattan"
+      ]
+    },
+    {
+      "id": 820,
+      "slug": "ude/sten-og-fliser/",
+      "words": []
+    },
+    {
+      "id": 8243,
+      "slug": "ude/gron-energi/",
+      "words": []
+    },
+    {
+      "id": 7071,
+      "slug": "erotik/",
+      "words": []
+    },
+    {
+      "id": 5602,
+      "slug": "erotik/erotiske-film/",
+      "words": [
+        "sex"
+      ]
+    },
+    {
+      "id": 7072,
+      "slug": "erotik/erotisk-lingeri/",
+      "words": [
+        "brugte trusser",
+        "sex",
+        "frÃ¦kt",
+        "trusse",
+        "frÃ¦k lingeri",
+        "brugte tru",
+        "sex 25"
+      ]
+    },
+    {
+      "id": 7073,
+      "slug": "erotik/erotisk-kontakt/",
+      "words": [
+        "kontakt piger",
+        "kontakt par"
+      ]
+    },
+    {
+      "id": 7074,
+      "slug": "erotik/erotiske-boger/",
+      "words": [
+        "rapport",
+        "porno"
+      ]
+    },
+    {
+      "id": 7075,
+      "slug": "erotik/erotiske-hjaelpemidler/",
+      "words": []
+    },
+    {
+      "id": 7573,
+      "slug": "erotik/erotiske-kostumer/",
+      "words": [
+        "latex"
+      ]
+    },
+    {
+      "id": 8191,
+      "slug": "erotik/swingerklubber/",
+      "words": []
+    },
+    {
+      "id": 8203,
+      "slug": "erotik/strip/",
+      "words": []
+    },
+    {
+      "id": 212125,
+      "slug": "erotik/erotiske-billeder/",
+      "words": [
+        "nÃ¸gen",
+        "erotiske",
+        "frÃ¦k",
+        "sex 20"
+      ]
+    },
+    {
+      "id": 212126,
+      "slug": "erotik/webcam-sms-og-telefonsex-mm/",
+      "words": []
+    },
+    {
+      "id": 212127,
+      "slug": "erotik/erotiske-genstande/",
+      "words": [
+        "erotiske"
+      ]
+    },
+    {
+      "id": 212128,
+      "slug": "erotik/erotisk-massage/",
+      "words": []
+    },
+    {
+      "id": 212135,
+      "slug": "erotik/modeljobs/",
+      "words": []
+    }
+  ],
+  "words": [
+    "hÃ¥rd",
+    "centrifuge",
+    "gas",
+    "lille kÃ¸leskab",
+    "12 volt kÃ¸leskab",
+    "indbygningsovn, pyrolyse",
+    "trepol",
+    "emfang loft",
+    "opvaske",
+    "smal opvaskemaskine",
+    "45 opvaskemaskine",
+    "mikro",
+    "micro",
+    "kondens tÃ¸rre",
+    "kÃ¸l frys",
+    "kÃ¸lefryse",
+    "kÃ¸le f",
+    "flytbare",
+    "isoleret anneks",
+    "flytbart hus",
+    "flytbart",
+    "beboelsesvogn",
+    "brugte symaskiner",
+    "hÃ¸reapparat",
+    "fremviser",
+    "razer",
+    "inverter",
+    "disko",
+    "loppe",
+    "vin",
+    "whisky",
+    "vÃ¦rksted",
+    "stÃ¥lhal",
+    "udlejes",
+    "hal",
+    "erhvervslejemÃ¥l",
+    "stÃ¥lbuer",
+    "vÃ¦rksted udlejes",
+    "togvogn",
+    "sindal",
+    "ramper",
+    "sandwich plade",
+    "lys",
+    "lokaler odense",
+    "ledhejseport",
+    "lager",
+    "garager",
+    "butik leje",
+    "bo",
+    "skur",
+    "ejendomme udlejes",
+    "udlejes",
+    "huse til salg",
+    "hus til leje",
+    "fremleje",
+    "ejendom bytte",
+    "pÃ¥ske",
+    "dac",
+    "plasma",
+    "harman kardon",
+    "triax",
+    "tivoli",
+    "stereo",
+    "sonos",
+    "pioneer",
+    "pickup",
+    "kloss",
+    "smart tv",
+    "ultra hd",
+    "eq",
+    "cassete",
+    "radio 1 din",
+    "video",
+    "transistor",
+    "tom tom",
+    "stereoanlÃ¦g",
+    "sonny",
+    "wegner",
+    "chesterfields",
+    "ch",
+    "gevÃ¦r",
+    "Ã¦gge",
+    "wikkelsÃ¸",
+    "thonet",
+    "y stole",
+    "siesta",
+    "poul volter",
+    "verner panton",
+    "mÃ¸belbeslag",
+    "mogens koch",
+    "mogens hansen",
+    "fdb",
+    "egetrÃ¦",
+    "eames",
+    "dÃ¦kketÃ¸jss",
+    "chartol",
+    "bÃ¸rge mogensen",
+    "vga",
+    "sonic",
+    "knallert 30",
+    "t rex",
+    "peugeot speedfight",
+    "tgb",
+    "skyteam",
+    "pmx",
+    "street magic",
+    "hot50",
+    "giantco",
+    "vga explora",
+    "pgo dr",
+    "vga digita",
+    "aprilla",
+    "ape 50",
+    "dÃ¸dsboer",
+    "hus til leje",
+    "udlejes",
+    "til leje",
+    "lejlighed kÃ¸benhavn",
+    "lejebolig",
+    "kolonihave",
+    "kolonihavehu",
+    "sommerhus til salg",
+    "sommerhus salg",
+    "gratis",
+    "pind",
+    "maskinhal",
+    "glitter",
+    "trofÃ¦er",
+    "rustf",
+    "mÃ¦lkespand",
+    "spilleautomat",
+    "salamander",
+    "pÃ¸lse",
+    "pizza ovn",
+    "nocturne",
+    "lagerhal",
+    "brandslukker",
+    "andelsbolig",
+    "vask",
+    "ifÃ¸",
+    "glasvÃ¦g",
+    "brusevÃ¦g",
+    "wc",
+    "underskab",
+    "toiletskab",
+    "porcelÃ¦nsvask",
+    "hÃ¸jskabe",
+    "gulvaflÃ¸b",
+    "granit hÃ¥ndvask",
+    "berÃ¸ringsfri",
+    "badev",
+    "stelton",
+    "bryggers",
+    "industrikÃ¸kken",
+    "vask",
+    "overskabe",
+    "kaffebrygger",
+    "rustfri",
+    "melitta",
+    "hÃ¸jskabe",
+    "granit kÃ¸kk",
+    "gourmet",
+    "alessi",
+    "tragt",
+    "siemes",
+    "rustfri stÃ¥l",
+    "pÃ¸lses",
+    "nÃ¸dstrÃ¸msanlÃ¦g",
+    "mikro",
+    "magimix",
+    "kÃ¸kkenrulle",
+    "sommerhus",
+    "links",
+    "fjellerup",
+    "bÃ¥d gratis",
+    "kroge til butik",
+    "bordtennis",
+    "georg jensen",
+    "sÃ¸holm",
+    "bronze",
+    "Ã¦g",
+    "holmegaard",
+    "george jens",
+    "georg jensen duge",
+    "lene bjerre",
+    "walther",
+    "ugle",
+    "skagerak",
+    "prisme",
+    "orkide",
+    "menu lyse",
+    "lyse",
+    "lille",
+    "kÃ¤hler",
+    "kobber",
+    "knopper",
+    "kaminur",
+    "fustage",
+    "fadÃ¸lsanlÃ¦g",
+    "sommerhus",
+    "udlejning somme",
+    "leje af sommerhus",
+    "hus sverige",
+    "sommer huse",
+    "galloway",
+    "rundbuehal",
+    "kvie",
+    "kalveskjul",
+    "hytter",
+    "dorset",
+    "transportka",
+    "byg korn",
+    "hÃ¸hÃ¦k",
+    "havre",
+    "gnavere",
+    "dyrehegn",
+    "camp",
+    "plÃ¸kker til",
+    "975",
+    "campin",
+    "kÃ¸lebokse",
+    "isabella universal",
+    "kampa air pro plus",
+    "6 kg gas",
+    "adria adora 552",
+    "autocamper'",
+    "aircon",
+    "fÃ¸rerhus",
+    "autocamper kÃ¸jer",
+    "gas alarm",
+    "tripp trapp",
+    "fastelavnsdragt",
+    "fastelavn",
+    "udklÃ¦dning 9",
+    "container",
+    "vandingsrÃ¸r",
+    "stavvibrator",
+    "kranbil",
+    "brugte container",
+    "beemoo",
+    "sikkerhedsgitter",
+    "ski sele",
+    "puslepude",
+    "pusle",
+    "petite",
+    "regnslag barnevogn",
+    "mahogni",
+    "vinterhave",
+    "vindue",
+    "skur",
+    "rationel",
+    "glasparti",
+    "facade",
+    "dobbelt terrassedÃ¸re",
+    "fransk dÃ¸r dobbelt",
+    "alu trÃ¦",
+    "avant",
+    "klemmer",
+    "tra",
+    "takeuchi",
+    "wolf",
+    "teleskop",
+    "stabler",
+    "rotator",
+    "planerskovl",
+    "pallegafler",
+    "mÃ¸lle",
+    "joh",
+    "new holland",
+    "honda gx",
+    "dieselmotor",
+    "cane",
+    "bukh",
+    "case ih",
+    "valmet",
+    "case",
+    "john deere",
+    "mÃ¸gspreder",
+    "grubber",
+    "aflÃ¦sservogn",
+    "bukh 302",
+    "taarup",
+    "david brown",
+    "john",
+    "ih",
+    "volvo bm",
+    "sprÃ¸jte",
+    "zetor",
+    "jf",
+    "hardi",
+    "skovvogn",
+    "maskin",
+    "paller",
+    "limtrÃ¦",
+    "jern",
+    "lagerhal",
+    "bjÃ¦lker",
+    "skiffer",
+    "krydsfiner",
+    "troldtekt",
+    "kloakrÃ¸r",
+    "vinkeljern",
+    "stolper",
+    "murrer",
+    "stÃ¥ltrappe",
+    "stÃ¥lskorsten",
+    "overlÃ¦gger",
+    "brÃ¦dder",
+    "vÃ¦gfliser",
+    "vinkel",
+    "tÃ¸mmer",
+    "trapez",
+    "neptun",
+    "biler",
+    "punto",
+    "skoda fabia 2009",
+    "audi a4 b8",
+    "mitsubishi colt",
+    "webasto",
+    "racechip",
+    "ford escort",
+    "bud modtages",
+    "mgb",
+    "hella",
+    "citroen c5",
+    "saab 99",
+    "saab 93",
+    "yun88",
+    "wv",
+    "vandpumpe",
+    "v8",
+    "udstÃ¸dn",
+    "tesla",
+    "pioneer",
+    "subwoofer pioneer",
+    "bass kas",
+    "2din",
+    "2 din radio",
+    "sakselift",
+    "pe",
+    "dÃ¦kmaskine",
+    "samsung telefoner",
+    "samsung galaxy watch",
+    "mobilte",
+    "mobiltelefon",
+    "brugt mobiltelefon",
+    "ip",
+    "eva solo",
+    "loungesÃ¦t",
+    "shelter",
+    "skur",
+    "tag",
+    "skafter",
+    "granit",
+    "springvand",
+    "lÃ¦hegn",
+    "lille havebord",
+    "bÃ¥l",
+    "rustfri bord",
+    "beton",
+    "terrasse",
+    "stÃ¸bejern",
+    "smedejerns",
+    "skraldespand",
+    "rionet",
+    "prosse vindue",
+    "polyrattan",
+    "sex",
+    "brugte trusser",
+    "sex",
+    "frÃ¦kt",
+    "trusse",
+    "frÃ¦k lingeri",
+    "brugte tru",
+    "sex 25",
+    "rapport",
+    "porno",
+    "kontakt piger",
+    "kontakt par",
+    "latex",
+    "nÃ¸gen",
+    "erotiske",
+    "frÃ¦k",
+    "sex 20",
+    "erotiske"
+  ]
+}
